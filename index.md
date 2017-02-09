@@ -10,7 +10,8 @@ Mary Feng
 
 We are planning to analyze information about restaurants in the Madison, WI
 area. We obtained data from the [Zomato](https://www.zomato.com/) and
-[Yelp](https://www.yelp.com/) APIs.
+[Yelp](https://www.yelp.com/) APIs. Each Yelp review and Zomato review will be
+one of our text documents for Stage 2.
 
 * [Report](reports/Stage1_Report.pdf)
 
@@ -22,3 +23,7 @@ area. We obtained data from the [Zomato](https://www.zomato.com/) and
 
 * [Zomato restaurants](datasets/zomato_restaurants.json)
 * [Zomato reviews](datasets/zomato_reviews.json)
+
+# Stage 2: Information Extraction
+
+Coming soon!
