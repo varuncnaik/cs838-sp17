@@ -12,13 +12,13 @@ We are planning to analyze information about restaurants in the Madison, WI
 area. We obtained data from the [Zomato](https://www.zomato.com/) and
 [Yelp](https://www.yelp.com/) APIs.
 
-Report
+* Report
 
-* Yelp restaurants
-* Yelp checkins
-* Yelp reviews
-* Yelp tips
-* Yelp users
+* [Yelp restaurants](datasets/yelp_restaurants.json)
+* [Yelp checkins](datasets/yelp_checkins.json)
+* [Yelp reviews](datasets/yelp_reviews.json)
+* [Yelp tips](datasets/yelp_tips.json)
+* [Yelp users](datasets/yelp_users.json)
 
 * [Zomato restaurants](datasets/zomato_restaurants.json)
 * Zomato reviews
