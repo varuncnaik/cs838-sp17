@@ -14,11 +14,11 @@ area. We obtained data from the [Zomato](https://www.zomato.com/) and
 
 Report
 
-Yelp restaurants
-Yelp checkins
-Yelp reviews
-Yelp tips
-Yelp users
+* Yelp restaurants
+* Yelp checkins
+* Yelp reviews
+* Yelp tips
+* Yelp users
 
-[Zomato restaurants](datasets/zomato_restaurants.json)
-Zomato reviews
+* [Zomato restaurants](datasets/zomato_restaurants.json)
+* Zomato reviews
