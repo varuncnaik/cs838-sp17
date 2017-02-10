@@ -9,9 +9,9 @@ Mary Feng
 # Stage 1: Problem Definition
 
 We are planning to analyze information about restaurants in the Madison, WI
-area. We obtained data from the [Zomato](https://www.zomato.com/) and
-[Yelp](https://www.yelp.com/) APIs. Each Yelp review and Zomato review will be
-one of our text documents for Stage 2.
+area. We obtained data from the [Zomato](https://www.zomato.com/) API and the
+[Yelp](https://www.yelp.com/) dataset challenge. Each Yelp review and Zomato
+review will be one of our text documents for Stage 2.
 
 * [Report](reports/Stage1_Report.pdf)
 
