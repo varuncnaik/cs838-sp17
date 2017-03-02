@@ -34,7 +34,7 @@ We performed information extraction on 300 randomly selected Yelp reviews.
 * [Development set (I)](stage2/dev_set.md)
 * [Test set (J)](stage2/test_set.md)
 * [Source code](stage2/code.md)
-* Zipped documents
+* [Zipped documents and code](stage2/stage2.zip)
 
 # Stage 3: Data/Schema Matching
 
