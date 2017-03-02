@@ -29,8 +29,8 @@ review will be one of our text documents for Stage 2.
 We performed information extraction on 300 randomly selected Yelp reviews.
 
 * [300 Yelp reviews](stage2/documents.md)
-* Development set (I)
-* Test set (J)
+* [Development set (I)](stage2/dev_set.md)
+* [Test set (J)](stage2/test_set.md)
 * Source code
 * Zipped documents
 
