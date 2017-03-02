@@ -1,6 +1,6 @@
 # Documents
 
-See the [README](README) for a description of the format of the documents.
+See [README.txt](README.txt) for a description of the format of the documents.
 
 * [0.json](documents/0.json)
 * [1.json](documents/1.json)
