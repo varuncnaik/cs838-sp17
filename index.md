@@ -45,7 +45,7 @@ with 734,485 tuples.
 
 * [Report](reports/Stage3_Report.pdf)
 
-* [CODE](stage3/CODE.md)
+* [CODE](https://github.com/varuncnaik/cs838-sp17/tree/master/stage3/CODE)
 * [DATA](stage3/DATA.md)
 
 # Stage 4
