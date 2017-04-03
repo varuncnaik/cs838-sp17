@@ -43,10 +43,10 @@ switched to a different dataset for this stage of the project. We performed
 entity matching between a Song table with 961,593 tuples, and a Track table
 with 734,485 tuples.
 
-* Report
+* [Report](reports/Stage3_Report.pdf)
 
-* [CODE](stage3/code.md)
-* [DATA](stage3/data.md)
+* [CODE](stage3/CODE.md)
+* [DATA](stage3/DATA.md)
 
 # Stage 4
 
