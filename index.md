@@ -36,6 +36,18 @@ We performed information extraction on 300 randomly selected Yelp reviews.
 * [Source code](https://github.com/varuncnaik/cs838-sp17/tree/master/stage2/code)
 * [Zipped documents and code](stage2/stage2.zip)
 
-# Stage 3: Data/Schema Matching
+# Stage 3: Entity Matching
+
+Since our Yelp/Zomato dataset had fewer than 3,000 tuples in each table, we
+switched to a different dataset for this stage of the project. We performed
+entity matching between a Song table with 961,593 tuples, and a Track table
+with 734,485 tuples.
+
+* Report
+
+* [CODE](stage3/code.md)
+* [DATA](stage3/data.md)
+
+# Stage 4
 
 Coming soon!
