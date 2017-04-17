@@ -53,7 +53,7 @@ with 734,485 tuples.
 We returned to our Yelp/Zomato dataset. We combined the two into a single
 dataset in CSV format.
 
-* Report
+* [Report](reports/Stage4_Report.pdf)
 
 * [Files](stage4/files.md)
 

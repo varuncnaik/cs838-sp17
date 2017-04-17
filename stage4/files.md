@@ -1,15 +1,6 @@
 # Files
 
-* [yelp_restaurants.csv](yelp_restaurants.csv)
-* [zomato_restaurants.csv](zomato_restaurants.csv)
-* [A.csv](A.csv)
-* [B.csv](B.csv)
-* [C.csv](C.csv)
-* [I.csv](I.csv)
-* [J.csv](J.csv)
-* [matches.csv](matches.csv)
-* [matches_cleaned.csv](matches_cleaned.csv)
-* [E.csv](E.csv)
-* [jsontocsv.py](jsontocsv.py)
-* [match_magellan.py](match_magellan.py)
-* [merge_tables.py](merge_tables.py)
+The files for stage 4 are located [here](https://github.com/varuncnaik/cs838-sp17/tree/master/stage4).
+The two input files are yelp_restaurants.csv and zomato_restaurants.csv.
+The code to merge the two files is in merge_tables.py.
+The final merged file is E.csv.
