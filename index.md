@@ -48,6 +48,15 @@ with 734,485 tuples.
 * [CODE](https://github.com/varuncnaik/cs838-sp17/tree/master/stage3/CODE)
 * [DATA](stage3/DATA.md)
 
-# Stage 4
+# Stage 4: Data Merging
+
+We returned to our Yelp/Zomato dataset. We combined the two into a single
+dataset in CSV format.
+
+* Report
+
+* [Files](stage4/files.md)
+
+# Stage 5
 
 Coming soon!

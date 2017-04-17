@@ -1,0 +1,15 @@
+# Files
+
+* [yelp_restaurants.csv](yelp_restaurants.csv)
+* [zomato_restaurants.csv](zomato_restaurants.csv)
+* [A.csv](A.csv)
+* [B.csv](B.csv)
+* [C.csv](C.csv)
+* [I.csv](I.csv)
+* [J.csv](J.csv)
+* [matches.csv](matches.csv)
+* [matches_cleaned.csv](matches_cleaned.csv)
+* [E.csv](E.csv)
+* [jsontocsv.py](jsontocsv.py)
+* [match_magellan.py](match_magellan.py)
+* [merge_tables.py](merge_tables.py)
