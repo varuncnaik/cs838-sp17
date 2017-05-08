@@ -1,0 +1,911 @@
+American, 4.5
+American, Burger, Bar_Food, 4.0
+Breakfast, Burger, Bar_Food, 5.0
+American, Burger, Bar_Food, 3.0
+Fast_Food, 1.0
+Pizza, Sandwich, 2.0
+American, 4.0
+Chinese, 4.0
+American, Burger, Fast_Food, 3.5
+American, Burger, 4.5
+American, Bar_Food, 3.5
+Fast_Food, 3.5
+Pizza, 3.5
+American, 4.5
+Chinese, 3.5
+American, Burger, 4.5
+American, 3.5
+American, Burger, Pizza, 3.0
+Sandwich, 2.5
+Fast_Food, 2.0
+American, 4.0
+Fast_Food, Pizza, 4.0
+Chinese, 5.0
+Coffee_and_Tea, Sandwich, 4.0
+Italian, 3.5
+Chinese, 3.0
+Indian, Thai, 3.5
+Fast_Food, Ice_Cream, 3.5
+American, 3.5
+Mexican, Sandwich, 4.0
+Fast_Food, Pizza, 3.5
+Fast_Food, 1.0
+Sandwich, 3.5
+Burger, Pizza, Bar_Food, 2.5
+International, Thai, 2.5
+Breakfast, 3.0
+Sandwich, 2.5
+Fast_Food, Pizza, 4.0
+Pizza, 4.5
+American, Italian, Pizza, 3.5
+Pizza, Sandwich, 2.0
+Fast_Food, Pizza, 2.0
+Fast_Food, Mexican, 3.5
+American, European, Steak, 3.5
+American, 4.0
+Italian, Mediterranean, 3.0
+Fast_Food, 2.5
+Chinese, 2.5
+American, Burger, Bar_Food, 4.0
+American, Bar_Food, 3.5
+Pub_Food, 4.0
+American, 2.0
+American, 3.0
+Fast_Food, 2.5
+Fast_Food, 4.5
+Fast_Food, 2.5
+Asian, Chinese, Vegetarian, 3.0
+American, Bar_Food, 3.5
+Desserts, Sandwich, 4.5
+American, 3.0
+Thai, Vegetarian, 3.5
+Indonesian, Thai, Vegetarian, 4.0
+Italian, 3.5
+American, Burger, 4.0
+Italian, 3.0
+Italian, 3.5
+Sandwich, 4.0
+Sandwich, 4.0
+Sandwich, 2.5
+Sandwich, 2.5
+Burger, Sandwich, 4.0
+Breakfast, Diner, Vegetarian, 4.0
+American, Bar_Food, 3.5
+4.5
+4.5
+Bar_Food, Irish, 3.5
+American, Burger, Bar_Food, 4.0
+3.0
+Burger, Bar_Food, Sandwich, 3.0
+Pizza, 4.0
+Pizza, 3.5
+Bar_Food, 3.0
+Italian, Mediterranean, 4.0
+Fast_Food, 1.5
+Fast_Food, 2.5
+Fast_Food, 4.5
+Mexican, Tex-Mex, 3.5
+Italian, Pizza, 4.0
+Indian, Mediterranean, 1.5
+Steak, 3.5
+Burger, 4.0
+Mexican, 3.0
+Chinese, 2.5
+Chinese, International, Seafood, 3.0
+Chinese, 3.5
+Chinese, 3.5
+Chinese, 2.5
+Asian, Chinese, 3.5
+Chinese, 3.0
+Fast_Food, Mexican, 4.0
+Fast_Food, Mexican, 3.5
+Burger, Pizza, Sandwich, 3.0
+Pizza, 2.0
+Burger, Bar_Food, 3.5
+American, 3.0
+American, 3.5
+Coffee_and_Tea, Sandwich, 4.0
+American, Mediterranean, 3.0
+American, Breakfast, 4.5
+Sandwich, 4.0
+Sandwich, 4.0
+American, 3.0
+American, Burger, 3.0
+American, Burger, 4.0
+American, Burger, 3.0
+American, Breakfast, Diner, 4.0
+Fast_Food, Ice_Cream, 4.0
+Breakfast, Diner, 3.0
+Seafood, Steak, 3.5
+American, Diner, 2.5
+American, Diner, 3.0
+American, Burger, 4.0
+Japanese, Sushi, 3.0
+Japanese, Seafood, Sushi, 3.0
+American, Bar_Food, 3.5
+Pizza, Sandwich, 4.0
+Mexican, 4.0
+BBQ, Southwestern, Tex-Mex, 4.0
+Burger, Desserts, Sandwich, 3.0
+Tapas, 4.0
+Bar_Food, Irish, 3.5
+Coffee_and_Tea, 3.5
+Seafood, Steak, 3.0
+Breakfast, Diner, Sandwich, 2.5
+Coffee_and_Tea, 4.0
+Fast_Food, Pizza, 3.0
+American, BBQ, 3.0
+Italian, 2.5
+Chinese, 3.5
+American, 4.0
+Sandwich, 4.0
+Japanese, Sushi, Tea, 2.5
+Pizza, 4.0
+Pizza, Sandwich, 3.0
+Pizza, Sandwich, 4.0
+Breakfast, Sandwich, 2.5
+American, Burger, Pizza, 3.5
+Chinese, 3.0
+American, Burger, Bar_Food, 4.0
+American, Breakfast, Bar_Food, 3.5
+Italian, Pizza, 4.0
+Coffee_and_Tea, 4.0
+Chinese, 3.5
+Chinese, 3.5
+Fast_Food, 3.0
+Burger, Pizza, Vegetarian, 4.0
+American, French, Italian, 3.5
+Burger, Sandwich, 3.0
+Indian, International, Vegetarian, 4.0
+Asian, Chinese, 3.0
+American, Breakfast, 2.0
+Desserts, Pizza, 4.0
+Pizza, 4.0
+Breakfast, Coffee_and_Tea, 4.5
+Irish, 3.5
+Chinese, 3.0
+Caribbean, 3.5
+Coffee_and_Tea, 4.0
+Breakfast, 4.0
+Sandwich, 1.5
+Sandwich, 2.5
+Sandwich, 3.0
+Bar_Food, 4.5
+Fast_Food, 1.0
+Fast_Food, 1.5
+Fast_Food, 1.5
+Fast_Food, 2.0
+Afghani, Middle_Eastern, 3.5
+American, French, Mediterranean, 4.0
+American, 2.5
+Mexican, 3.0
+Mexican, 4.0
+Asian, Thai, Vegetarian, 3.5
+Thai, Vegetarian, 4.5
+Mexican, 3.5
+Mexican, 3.5
+American, Bar_Food, 3.0
+Breakfast, 4.0
+Bar_Food, 4.5
+Fast_Food, Pizza, 2.5
+Fast_Food, Pizza, 4.0
+Sandwich, 4.0
+Fast_Food, 3.0
+Breakfast, Coffee_and_Tea, 4.5
+Breakfast, Coffee_and_Tea, 4.0
+American, Burger, Bar_Food, 3.5
+Indian, Vegetarian, 4.0
+Indian, 3.5
+American, Burger, Pizza, 4.0
+Bakery, 4.0
+Breakfast, Sandwich, 4.0
+Seafood, Steak, 3.5
+American, Burger, 3.0
+Bar_Food, Irish, 2.5
+Fast_Food, 3.0
+Fast_Food, 1.0
+Fast_Food, 1.5
+Fast_Food, 3.0
+Fast_Food, 2.0
+Fast_Food, 1.5
+Fast_Food, 3.0
+Mediterranean, Middle_Eastern, Bar_Food, 4.5
+Mediterranean, Vegetarian, 4.5
+Breakfast, Coffee_and_Tea, Sandwich, 3.5
+American, International, Vegetarian, 3.0
+Coffee_and_Tea, Sandwich, 4.5
+Desserts, 3.5
+Breakfast, Burger, Sandwich, 4.0
+Breakfast, 4.0
+Sandwich, 2.5
+Sandwich, 2.5
+Sandwich, 4.5
+Sandwich, 3.5
+Sandwich, 3.0
+American, Sandwich, 3.5
+American, Breakfast, Diner, 4.0
+Coffee_and_Tea, Vegetarian, 3.5
+Burger, 3.5
+Breakfast, Fast_Food, 3.5
+Breakfast, Fast_Food, 4.0
+Asian, Chinese, Vietnamese, 3.5
+American, Burger, Fish_and_Chips, 2.5
+Sandwich, Seafood, Cajun, 4.0
+Cajun, 4.0
+Korean, 4.0
+Diner, 3.5
+Asian, Mediterranean, 3.0
+American, Asian, Mediterranean, 2.5
+International, Thai, 3.0
+International, Thai, 2.5
+American, Breakfast, Burger, 4.0
+Italian, 3.5
+Italian, 3.0
+Sushi, Tapas, 4.0
+Chinese, Japanese, 3.0
+Breakfast, 4.0
+Mediterranean, Seafood, Steak, 4.0
+Steak, 2.5
+Steak, 3.0
+American, 3.5
+Italian, Pizza, 3.0
+Sandwich, 2.5
+Sandwich, 3.0
+Sandwich, 3.5
+Fast_Food, Pizza, 3.0
+Fast_Food, Pizza, 4.0
+Fast_Food, Pizza, 2.5
+Fast_Food, Pizza, 4.0
+Italian, 4.0
+Bar_Food, 4.0
+American, Breakfast, Diner, 4.0
+Greek, Mediterranean, 3.5
+Southwestern, 3.0
+Mexican, 2.5
+Mediterranean, Middle_Eastern, 4.0
+American, 3.0
+American, 3.0
+American, Sandwich, 2.5
+Bar_Food, 3.0
+Italian, Pizza, Sandwich, 3.5
+Fast_Food, Italian, Pizza, 3.0
+Desserts, Pizza, Sandwich, 3.0
+Fast_Food, Pizza, 2.5
+Fast_Food, Pizza, 2.0
+Fast_Food, Pizza, 2.5
+Fast_Food, Pizza, 1.5
+Fast_Food, Pizza, 2.5
+Desserts, Pizza, Sandwich, 2.0
+Desserts, Pizza, Sandwich, 3.0
+Desserts, Pizza, Sandwich, 3.5
+Bar_Food, 4.5
+Burger, Bar_Food, 4.0
+Italian, Mediterranean, Pizza, 2.5
+Sandwich, 3.5
+Sandwich, 2.5
+Fast_Food, Mexican, 3.0
+Fast_Food, Mexican, 3.5
+Fast_Food, Sandwich, 3.0
+Seafood, 3.5
+American, Burger, Sandwich, 3.5
+American, 3.0
+Japanese, Sushi, 3.5
+Asian, Thai, 3.5
+Pizza, American, 3.0
+Pizza, 2.5
+Pizza, American, 2.5
+Pizza, 2.5
+Pizza, American, 2.5
+Pizza, American, 2.5
+Desserts, Pizza, 3.5
+Pizza, 3.5
+Pizza, Sandwich, 3.5
+Asian, Thai, 3.0
+Vietnamese, 4.0
+Brazilian, Steak, 3.5
+Breakfast, French, 4.0
+Japanese, 4.0
+Japanese, 4.5
+Bar_Food, 4.0
+Sandwich, 3.5
+Steak, 3.0
+Breakfast, 4.5
+Bar_Food, 3.0
+Coffee_and_Tea, 3.0
+German, Bar_Food, 3.0
+Coffee_and_Tea, 4.0
+Fast_Food, 3.5
+Fast_Food, 2.0
+Japanese, Sushi, 4.0
+Asian, Indian, 4.0
+American, Burger, 4.0
+Fast_Food, 2.0
+Fast_Food, 1.5
+American, Burger, 3.0
+Indian, 3.5
+Japanese, Sushi, 3.5
+Japanese, Sushi, 4.0
+Mexican, 4.0
+Indian, 4.0
+Thai, 4.0
+American, Bar_Food, 4.0
+Seafood, Steak, 4.0
+Pizza, Sandwich, 3.0
+Steak, 4.0
+Italian, 3.0
+Thai, 3.5
+American, Bar_Food, 4.0
+Burger, Sandwich, 4.5
+American, 4.0
+Asian, Chinese, 3.5
+American, 3.0
+Japanese, Sushi, 3.5
+Bar_Food, 4.0
+Fast_Food, 2.5
+Fast_Food, 2.5
+Fast_Food, 3.5
+Breakfast, Coffee_and_Tea, 4.0
+Bar_Food, 3.5
+American, 4.0
+Desserts, Sandwich, 3.5
+Pizza, Sandwich, 4.0
+Mexican, 3.5
+Italian, Pizza, 4.5
+Bar_Food, 4.5
+American, Burger, 3.0
+American, 3.5
+Chinese, 3.0
+Fast_Food, 4.0
+Burger, Pizza, Sandwich, 4.0
+Fast_Food, 3.5
+European, Mediterranean, Eastern_European, 4.0
+American, Bar_Food, 3.5
+Breakfast, Diner, 4.0
+Asian, 3.0
+Burger, 3.0
+Ice_Cream, 3.0
+Pizza, Sandwich, 3.0
+Sandwich, 3.0
+American, Burger, Desserts, 4.5
+Pizza, 3.5
+American, 2.5
+Breakfast, Seafood, Steak, 2.5
+Italian, Sandwich, 4.5
+Fast_Food, 4.5
+Bar_Food, 2.5
+Breakfast, Desserts, Diner, 3.5
+Chinese, 3.0
+Italian, Steak, 3.5
+Cajun, 4.0
+Fast_Food, 4.5
+Bar_Food, 4.0
+American, Burger, Bar_Food, 3.0
+Asian, 3.0
+Chinese, 3.0
+Fast_Food, Pizza, 1.5
+Bar_Food, 4.0
+Breakfast, Coffee_and_Tea, 3.5
+American, Burger, Steak, 3.5
+Pizza, 3.5
+Fast_Food, 3.0
+Breakfast, Diner, 3.5
+Italian, Pizza, 4.0
+Burger, Sandwich, 4.0
+Italian, 4.0
+American, Italian, Pizza, 3.0
+Bar_Food, 2.5
+American, Seafood, Cajun, 2.5
+Sandwich, 5.0
+Caribbean, Jamaican, 4.0
+American, Diner, 3.5
+Japanese, Sushi, Teriyaki, 3.0
+American, 3.0
+BBQ, Cajun, 3.5
+Italian, Sandwich, 4.5
+Chinese, 3.5
+Mexican, 3.0
+Latin_American, Mexican, 3.0
+Fast_Food, 2.0
+Fast_Food, 2.0
+Sandwich, 2.5
+International, Thai, 2.5
+Breakfast, 3.5
+Fast_Food, Pizza, 2.0
+Diner, Pizza, 3.0
+American, Burger, Sandwich, 2.5
+Pizza, Sandwich, 4.0
+Chinese, 3.5
+American, Burger, Bar_Food, 3.5
+Fast_Food, 1.5
+Fast_Food, 2.5
+Breakfast, Fast_Food, Mexican, 2.5
+Chinese, 2.5
+American, 2.5
+Chinese, 2.5
+American, Breakfast, Diner, 3.5
+Pizza, Bar_Food, Sandwich, 4.0
+American, Bar_Food, 3.0
+Fast_Food, 1.5
+American, 3.5
+Pizza, 4.0
+Fast_Food, 3.5
+Coffee_and_Tea, Sandwich, 4.5
+Pizza, 4.0
+Fast_Food, 1.0
+American, 3.5
+American, 4.0
+Mexican, 3.5
+Pizza, Bar_Food, 4.0
+Chinese, 3.5
+American, 3.5
+Sandwich, 3.0
+American, Breakfast, Diner, 4.5
+French, 3.5
+American, 2.5
+Fast_Food, Pizza, 2.0
+Fast_Food, Pizza, 2.5
+Desserts, Pizza, Sandwich, 4.0
+Mexican, 4.5
+American, Sandwich, Steak, 3.5
+American, Breakfast, Desserts, 4.0
+Pizza, 4.5
+Greek, Mediterranean, 4.5
+Fast_Food, 1.5
+Asian, Chinese, 3.5
+Bar_Food, 4.5
+American, 3.5
+American, Burger, 4.5
+Fast_Food, Ice_Cream, 4.0
+Pizza, Sandwich, 2.5
+Sandwich, 3.5
+Fast_Food, 1.0
+Diner, 3.5
+Fast_Food, 1.0
+Sandwich, 2.0
+Chinese, 3.5
+Fast_Food, Pizza, 2.5
+Fast_Food, Pizza, 2.0
+Desserts, Pizza, Sandwich, 3.5
+Pizza, Sandwich, 3.5
+Diner, 4.0
+American, Breakfast, Coffee_and_Tea, 3.5
+American, Burger, Sandwich, 3.5
+Fast_Food, 3.0
+Fast_Food, 2.0
+American, Burger, Pizza, 3.5
+Pizza, Bar_Food, 3.5
+Italian, Pizza, 3.0
+American, Burger, 4.0
+Chinese, 3.0
+American, Burger, 3.5
+Breakfast, Coffee_and_Tea, Sandwich, 4.0
+Fast_Food, 3.5
+Sandwich, 1.5
+Breakfast, Bar_Food, 3.5
+Burger, Mexican, 3.0
+Burger, 4.0
+Coffee_and_Tea, Tea, 4.5
+Chinese, 3.5
+Fast_Food, Pizza, 2.0
+American, 3.5
+Burger, Bar_Food, Sandwich, 2.5
+Fast_Food, 3.5
+American, Mexican, 3.5
+German, 3.5
+Dim_Sum, Pizza, 4.0
+American, Breakfast, Greek, 4.0
+Breakfast, Coffee_and_Tea, Desserts, 4.5
+American, Mediterranean, 4.0
+American, 3.0
+American, 2.5
+Southwestern, 2.5
+Steak, 4.0
+American, 3.5
+Tapas, 3.5
+BBQ, 4.0
+American, European, French, 4.5
+Breakfast, Sandwich, Vegetarian, 3.5
+American, Bar_Food, 4.0
+Fast_Food, 3.5
+Bar_Food, 3.0
+Pizza, 3.0
+Thai, 3.5
+Burger, Pizza, Bar_Food, 4.0
+Fast_Food, Pizza, 2.0
+Fast_Food, Pizza, 2.5
+European, French, 4.0
+Seafood, 3.0
+Breakfast, Coffee_and_Tea, 4.5
+Cajun, 4.0
+Japanese, Sushi, 4.0
+Fast_Food, 2.5
+American, Breakfast, 3.0
+Italian, Turkish, 3.5
+Breakfast, Coffee_and_Tea, 4.0
+American, Greek, Mediterranean, 4.0
+Pizza, 4.5
+Asian, Chinese, 3.0
+Mexican, Tex-Mex, 3.0
+Chinese, 3.5
+Sandwich, American, 3.5
+American, BBQ, Steak, 3.0
+Breakfast, Burger, Sandwich, 4.0
+American, Breakfast, Diner, 3.5
+Burger, Sandwich, 4.5
+American, Seafood, Steak, 3.5
+American, Burger, Sandwich, 3.5
+Sandwich, 3.0
+Mexican, 3.0
+Thai, Vietnamese, 3.5
+American, Burger, Bar_Food, 3.5
+Burger, Sandwich, 4.0
+American, 3.0
+American, French, Sandwich, 4.0
+Asian, 3.5
+Asian, Thai, Vietnamese, 4.0
+Fast_Food, Sandwich, 3.0
+Mexican, 4.0
+European, 4.0
+American, Italian, Steak, 3.0
+Mexican, 3.0
+Bar_Food, Seafood, 3.0
+American, 3.0
+American, Pizza, 2.5
+Italian, Pizza, 4.0
+Bar_Food, 2.5
+Bar_Food, 2.5
+American, Desserts, 3.0
+American, 3.5
+Vegetarian, 4.0
+Fast_Food, Mexican, 2.5
+Italian, 3.0
+Burger, Pizza, Sandwich, 3.0
+Fast_Food, Mexican, 3.5
+Breakfast, Burger, Bar_Food, 3.5
+Bar_Food, Sandwich, Steak, 3.0
+American, Burger, Bar_Food, 3.5
+American, BBQ, 3.0
+Pizza, 3.0
+American, Diner, Mediterranean, 3.0
+American, Breakfast, Pizza, 3.0
+American, Burger, Bar_Food, 3.5
+Seafood, 4.5
+Italian, 3.0
+Latin_American, Mexican, 4.5
+Sandwich, Steak, 3.5
+4.0
+Steak, 4.0
+Mexican, 2.5
+Mexican, California, 4.5
+American, Breakfast, Sandwich, 4.5
+2.5
+Breakfast, Coffee_and_Tea, 4.0
+American, 2.5
+American, 4.0
+3.0
+Bar_Food, 3.5
+Breakfast, Diner, 4.0
+Chinese, 3.5
+Mexican, 4.0
+Chinese, Japanese, Korean, 3.5
+Italian, 3.5
+American, Breakfast, Bar_Food, 4.0
+Italian, Pizza, 1.5
+Fast_Food, Mexican, 3.5
+Vegetarian, Vietnamese, 4.0
+American, Cafe, 4.5
+American, Cafe, 4.5
+Desserts, Italian, Pizza, 4.0
+Mexican, 3.5
+Mexican, 3.5
+Breakfast, Mediterranean, Vegetarian, 4.0
+Mexican, Southwestern, 2.5
+Chinese, 3.5
+Italian, 4.0
+American, International, 3.5
+Coffee_and_Tea, Tea, 4.0
+Mexican, Tex-Mex, 3.5
+American, Bar_Food, 3.0
+American, Sandwich, Steak, 4.0
+American, 3.5
+Breakfast, Coffee_and_Tea, 4.0
+American, 4.0
+International, 4.0
+Mexican, 3.0
+Chinese, 4.0
+American, Asian, Italian, 3.5
+American, Burger, Bar_Food, 2.5
+Japanese, Sushi, 2.5
+Asian, Japanese, 3.5
+American, Burger, Sandwich, 3.5
+American, 3.5
+Japanese, Sushi, 4.0
+Mexican, 2.5
+Fast_Food, 2.0
+Mediterranean, Middle_Eastern, 3.5
+Breakfast, Sandwich, 3.5
+Coffee_and_Tea, Tea, 4.5
+American, 2.5
+American, Sandwich, 3.0
+Asian, Chinese, 3.5
+International, Sandwich, 4.0
+Coffee_and_Tea, Sandwich, 4.0
+Sandwich, 3.5
+Burger, Bar_Food, Sandwich, 4.0
+Burger, Sandwich, 3.5
+American, Burger, 4.0
+Asian, Japanese, Sushi, 4.5
+Mexican, 3.0
+American, 4.0
+Mexican, 3.5
+Coffee_and_Tea, Sandwich, 4.0
+Seafood, 4.0
+Burger, Desserts, Sandwich, 4.0
+American, Breakfast, 2.5
+Breakfast, Coffee_and_Tea, Sandwich, 3.5
+Breakfast, Sandwich, Tex-Mex, 3.0
+American, Burger, Bar_Food, 3.5
+Italian, Pizza, 3.5
+European, Italian, Pizza, 4.5
+American, Bar_Food, 3.5
+Mexican, 4.5
+American, Breakfast, 4.0
+Bar_Food, Irish, 3.5
+American, 4.0
+Burger, Sandwich, 3.5
+Mexican, 3.0
+Mediterranean, Middle_Eastern, 4.5
+Mediterranean, Middle_Eastern, 4.5
+Sandwich, 3.0
+Mexican, 4.0
+American, Breakfast, 3.0
+Sandwich, 4.0
+American, Bar_Food, 3.0
+Pizza, 3.0
+Pizza, 4.5
+American, Burger, 4.0
+Fast_Food, 4.0
+Coffee_and_Tea, Sandwich, 4.5
+American, Burger, Bar_Food, 3.0
+Fast_Food, 1.5
+Sandwich, 3.5
+Asian, Chinese, 3.0
+Bar_Food, 4.5
+American, Burger, 3.0
+Italian, 3.0
+Mediterranean, Tapas, 4.5
+4.0
+Mexican, Seafood, 4.0
+Southern, 3.0
+3.0
+American, 4.0
+American, 4.0
+American, Breakfast, 3.5
+Italian, 4.0
+International, Sandwich, 4.5
+Pizza, Sandwich, 2.5
+BBQ, 3.5
+French, International, 4.0
+BBQ, Southwestern, Cajun, 3.5
+Italian, Pizza, Sandwich, 4.0
+Asian, Beverages, Tea, 3.5
+Italian, 3.0
+Sandwich, 4.0
+Burger, Bar_Food, Sandwich, 3.0
+Indian, 4.5
+American, Burger, Bar_Food, 3.0
+Greek, 2.0
+Burger, Italian, 3.5
+Sandwich, 3.5
+Breakfast, Burger, Sandwich, 4.0
+Mexican, 4.0
+Breakfast, Desserts, 4.5
+Mexican, 3.0
+Asian, 3.0
+Fast_Food, Sandwich, 2.0
+Bar_Food, 4.0
+American, Burger, Desserts, 3.5
+Pizza, 3.0
+Pizza, 3.5
+Sandwich, 3.5
+Mexican, 3.5
+Pizza, Sandwich, 4.0
+American, BBQ, 3.0
+American, BBQ, 3.0
+Burger, Seafood, 2.5
+Burger, Pizza, 4.0
+American, 2.5
+American, 2.5
+Asian, 4.0
+Asian, Sushi, Teriyaki, 3.5
+Sandwich, 4.0
+Asian, Chinese, Korean, 2.5
+American, Seafood, Steak, 3.5
+Pizza, 4.5
+Italian, Sandwich, 4.0
+Latin_American, 4.5
+Afghani, Eastern_European, 4.5
+Italian, Pizza, 4.5
+Greek, Sandwich, Southern, 3.0
+American, 4.5
+Coffee_and_Tea, Sandwich, 4.5
+American, Italian, 3.5
+Coffee_and_Tea, 4.5
+Indian, 3.5
+Mexican, 4.0
+American, 4.0
+American, 4.5
+Mexican, 3.5
+Sandwich, 4.0
+Sandwich, 4.0
+Middle_Eastern, 4.0
+Asian, Chinese, Vegetarian, 4.0
+American, Breakfast, Diner, 4.0
+Fast_Food, 1.5
+Coffee_and_Tea, Sandwich, 4.0
+Korean, 3.5
+American, Bar_Food, 4.0
+Bar_Food, 3.5
+Italian, 4.0
+Mexican, 4.0
+BBQ, 3.5
+Sandwich, 4.0
+Sandwich, 3.0
+American, 4.5
+American, Burger, 4.0
+Pizza, 2.5
+Indian, 4.5
+Steak, 3.5
+Fast_Food, 2.0
+Fast_Food, 2.5
+Asian, 2.5
+American, Burger, 4.0
+Chinese, 3.5
+Sandwich, 2.5
+Chinese, 4.0
+Coffee_and_Tea, Sandwich, 4.0
+BBQ, Bar_Food, 3.5
+Indian, 4.5
+Coffee_and_Tea, Sandwich, 4.0
+Seafood, Steak, 4.0
+Sandwich, 3.0
+Asian, Dim_Sum, 3.5
+Italian, Pizza, Sandwich, 3.5
+Mexican, 4.0
+Italian, 4.0
+Burger, Bar_Food, Sandwich, 4.0
+Southern, 4.0
+BBQ, Southern, 4.0
+Mediterranean, Middle_Eastern, 3.5
+Burger, Bar_Food, 3.5
+American, Burger, Bar_Food, 3.0
+Thai, 4.0
+Fast_Food, 4.0
+Fast_Food, 3.5
+Asian, Chinese, Sushi, 3.5
+American, Japanese, Mexican, 2.5
+European, 3.5
+Fast_Food, Pizza, 3.0
+3.5
+Desserts, Seafood, Steak, 3.5
+Sandwich, 3.0
+Burger, Bar_Food, 3.0
+Indian, 4.0
+American, 3.0
+Pizza, 3.5
+Italian, Pizza, 4.0
+Sandwich, 2.5
+American, 3.0
+American, Bar_Food, 4.5
+Japanese, Sushi, 3.5
+American, 3.5
+Asian, Thai, Vegetarian, 3.5
+American, Pizza, Bar_Food, 3.5
+Greek, Mediterranean, 4.0
+American, 4.0
+American, 4.0
+Asian, 4.5
+American, International, 3.5
+American, 2.5
+American, 3.5
+Seafood, Steak, 3.0
+Bar_Food, 4.0
+Asian, 3.0
+American, 3.0
+Indian, 4.0
+American, Healthy_Food, Bar_Food, 3.5
+Mexican, 2.5
+Mexican, 4.5
+Sandwich, 4.0
+Mexican, Southern, Fast_Food, 4.5
+Sandwich, 4.0
+Pizza, 4.5
+Indian, 3.0
+Indian, Pakistani, 3.0
+American, Bar_Food, 3.5
+Burger, 4.0
+Coffee_and_Tea, Sandwich, 4.0
+Bakery, 3.0
+Breakfast, Sandwich, Healthy_Food, 3.0
+Pizza, 3.0
+American, 3.0
+Mexican, 3.0
+American, 2.5
+Thai, 3.5
+Indian, 4.0
+American, 4.0
+Pizza, 3.5
+Fast_Food, 1.0
+3.0
+Burger, 3.0
+Mexican, 3.0
+3.0
+Pizza, 2.5
+4.5
+4.0
+American, 2.0
+Fast_Food, 2.5
+Fast_Food, Mexican, 2.5
+Mexican, 4.0
+American, Bar_Food, 5.0
+American, 4.0
+4.0
+Mexican, 3.5
+American, 4.0
+BBQ, 3.5
+Burger, Bar_Food, 3.5
+Bar_Food, 2.5
+Pizza, American, 2.5
+Pizza, Tapas, 4.0
+American, 4.0
+American, 4.5
+Tapas, Bar_Food, 4.0
+American, 5.0
+French, Italian, American, 4.0
+Dim_Sum, Chinese, 3.5
+Pizza, Salad, 3.5
+Mediterranean, 4.0
+Mexican, 4.5
+Mexican, 4.5
+Pizza, Sandwich, 3.0
+German, 3.5
+Chinese, 4.0
+Bar_Food, 3.5
+American, 4.5
+4.0
+American, Chinese, Sushi, 4.0
+Japanese, Ramen, 3.5
+Burger, Fast_Food, 3.0
+Amish, Japanese, Taiwanese, 3.5
+Beverages, American, 4.5
+Mediterranean, Pakistani, 4.0
+American, Seafood, Steak, 3.5
+American, Seafood, Steak, 4.0
+Japanese, Ramen, 3.0
+Laotian, Thai, 4.5
+American, 3.5
+Indian, 4.5
+American, 2.5
+Chinese, 4.5
+Mexican, 4.5
+Italian, Pizza, 4.0
+Mexican, Tex-Mex, 2.5
+American, 3.5
+Pizza, 3.5
+American, Salad, 4.0
+Japanese, Sushi, 3.5
+Peruvian, 3.5
+American, Mexican, 3.0
+American, 3.5
+Pub_Food, 2.5
+Salad, 3.0
+Mexican, 4.0
+Pizza, American, 4.0
+Hawaiian, Seafood, 4.5
+Indian, 4.5
+Peruvian, Sandwich, 4.5
+American, Sandwich, 3.5
+California, 4.0
+African, Ethiopian, 3.5
+American, 3.5
+Ramen, Japanese, 4.5

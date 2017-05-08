@@ -1,0 +1,911 @@
+American, 25
+American, Burger, Bar_Food, 10
+Breakfast, Burger, Bar_Food, 10
+American, Burger, Bar_Food, 10
+Fast_Food, 10
+Pizza, Sandwich, 10
+American, 10
+Chinese, 10
+American, Burger, Fast_Food, 10
+American, Burger, 10
+American, Bar_Food, 0
+Fast_Food, 10
+Pizza, 25
+American, 0
+Chinese, 10
+American, Burger, 10
+American, 10
+American, Burger, Pizza, 10
+Sandwich, 10
+Fast_Food, 10
+American, 10
+Fast_Food, Pizza, 10
+Chinese, 10
+Coffee_and_Tea, Sandwich, 10
+Italian, 25
+Chinese, 10
+Indian, Thai, 10
+Fast_Food, Ice_Cream, 10
+American, 10
+Mexican, Sandwich, 25
+Fast_Food, Pizza, 10
+Fast_Food, 10
+Sandwich, 10
+Burger, Pizza, Bar_Food, 10
+International, Thai, 10
+Breakfast, 25
+Sandwich, 10
+Fast_Food, Pizza, 10
+Pizza, 25
+American, Italian, Pizza, 25
+Pizza, Sandwich, 10
+Fast_Food, Pizza, 10
+Fast_Food, Mexican, 10
+American, European, Steak, 40
+American, 10
+Italian, Mediterranean, 40
+Fast_Food, 10
+Chinese, 10
+American, Burger, Bar_Food, 10
+American, Bar_Food, 25
+Pub_Food, 50
+American, 25
+American, 25
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Asian, Chinese, Vegetarian, 10
+American, Bar_Food, 45
+Desserts, Sandwich, 10
+American, 25
+Thai, Vegetarian, 10
+Indonesian, Thai, Vegetarian, 25
+Italian, 40
+American, Burger, 10
+Italian, 25
+Italian, 25
+Sandwich, 10
+Sandwich, 10
+Sandwich, 0
+Sandwich, 10
+Burger, Sandwich, 10
+Breakfast, Diner, Vegetarian, 10
+American, Bar_Food, 10
+10
+10
+Bar_Food, Irish, 25
+American, Burger, Bar_Food, 10
+10
+Burger, Bar_Food, Sandwich, 10
+Pizza, 10
+Pizza, 25
+Bar_Food, 25
+Italian, Mediterranean, 40
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Mexican, Tex-Mex, 10
+Italian, Pizza, 25
+Indian, Mediterranean, 10
+Steak, 70
+Burger, 10
+Mexican, 25
+Chinese, 10
+Chinese, International, Seafood, 10
+Chinese, 10
+Chinese, 10
+Chinese, 10
+Asian, Chinese, 10
+Chinese, 10
+Fast_Food, Mexican, 10
+Fast_Food, Mexican, 10
+Burger, Pizza, Sandwich, 10
+Pizza, 10
+Burger, Bar_Food, 10
+American, 10
+American, 10
+Coffee_and_Tea, Sandwich, 10
+American, Mediterranean, 10
+American, Breakfast, 10
+Sandwich, 10
+Sandwich, 10
+American, 10
+American, Burger, 10
+American, Burger, 10
+American, Burger, 10
+American, Breakfast, Diner, 10
+Fast_Food, Ice_Cream, 10
+Breakfast, Diner, 10
+Seafood, Steak, 70
+American, Diner, 10
+American, Diner, 10
+American, Burger, 10
+Japanese, Sushi, 25
+Japanese, Seafood, Sushi, 10
+American, Bar_Food, 10
+Pizza, Sandwich, 10
+Mexican, 10
+BBQ, Southwestern, Tex-Mex, 40
+Burger, Desserts, Sandwich, 10
+Tapas, 40
+Bar_Food, Irish, 40
+Coffee_and_Tea, 10
+Seafood, Steak, 40
+Breakfast, Diner, Sandwich, 10
+Coffee_and_Tea, 10
+Fast_Food, Pizza, 25
+American, BBQ, 25
+Italian, 25
+Chinese, 10
+American, 40
+Sandwich, 10
+Japanese, Sushi, Tea, 40
+Pizza, 25
+Pizza, Sandwich, 25
+Pizza, Sandwich, 25
+Breakfast, Sandwich, 10
+American, Burger, Pizza, 25
+Chinese, 10
+American, Burger, Bar_Food, 25
+American, Breakfast, Bar_Food, 25
+Italian, Pizza, 25
+Coffee_and_Tea, 10
+Chinese, 10
+Chinese, 10
+Fast_Food, 10
+Burger, Pizza, Vegetarian, 10
+American, French, Italian, 40
+Burger, Sandwich, 10
+Indian, International, Vegetarian, 25
+Asian, Chinese, 25
+American, Breakfast, 25
+Desserts, Pizza, 10
+Pizza, 10
+Breakfast, Coffee_and_Tea, 10
+Irish, 10
+Chinese, 10
+Caribbean, 25
+Coffee_and_Tea, 10
+Breakfast, 10
+Sandwich, 10
+Sandwich, 10
+Sandwich, 10
+Bar_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Afghani, Middle_Eastern, 25
+American, French, Mediterranean, 40
+American, 10
+Mexican, 10
+Mexican, 25
+Asian, Thai, Vegetarian, 25
+Thai, Vegetarian, 25
+Mexican, 10
+Mexican, 10
+American, Bar_Food, 10
+Breakfast, 10
+Bar_Food, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Sandwich, 10
+Fast_Food, 0
+Breakfast, Coffee_and_Tea, 25
+Breakfast, Coffee_and_Tea, 25
+American, Burger, Bar_Food, 40
+Indian, Vegetarian, 25
+Indian, 25
+American, Burger, Pizza, 10
+Bakery, 30
+Breakfast, Sandwich, 25
+Seafood, Steak, 70
+American, Burger, 10
+Bar_Food, Irish, 25
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Mediterranean, Middle_Eastern, Bar_Food, 40
+Mediterranean, Vegetarian, 10
+Breakfast, Coffee_and_Tea, Sandwich, 10
+American, International, Vegetarian, 40
+Coffee_and_Tea, Sandwich, 10
+Desserts, 10
+Breakfast, Burger, Sandwich, 10
+Breakfast, 10
+Sandwich, 10
+Sandwich, 10
+Sandwich, 10
+Sandwich, 0
+Sandwich, 10
+American, Sandwich, 10
+American, Breakfast, Diner, 25
+Coffee_and_Tea, Vegetarian, 10
+Burger, 0
+Breakfast, Fast_Food, 10
+Breakfast, Fast_Food, 10
+Asian, Chinese, Vietnamese, 25
+American, Burger, Fish_and_Chips, 40
+Sandwich, Seafood, Cajun, 25
+Cajun, 10
+Korean, 25
+Diner, 25
+Asian, Mediterranean, 10
+American, Asian, Mediterranean, 10
+International, Thai, 10
+International, Thai, 10
+American, Breakfast, Burger, 25
+Italian, 25
+Italian, 25
+Sushi, Tapas, 10
+Chinese, Japanese, 10
+Breakfast, 10
+Mediterranean, Seafood, Steak, 40
+Steak, 40
+Steak, 40
+American, 40
+Italian, Pizza, 25
+Sandwich, 10
+Sandwich, 10
+Sandwich, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Italian, 40
+Bar_Food, 10
+American, Breakfast, Diner, 10
+Greek, Mediterranean, 10
+Southwestern, 10
+Mexican, 25
+Mediterranean, Middle_Eastern, 10
+American, 0
+American, 10
+American, Sandwich, 10
+Bar_Food, 10
+Italian, Pizza, Sandwich, 25
+Fast_Food, Italian, Pizza, 10
+Desserts, Pizza, Sandwich, 25
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Desserts, Pizza, Sandwich, 10
+Desserts, Pizza, Sandwich, 25
+Desserts, Pizza, Sandwich, 25
+Bar_Food, 10
+Burger, Bar_Food, 10
+Italian, Mediterranean, Pizza, 40
+Sandwich, 10
+Sandwich, 10
+Fast_Food, Mexican, 10
+Fast_Food, Mexican, 10
+Fast_Food, Sandwich, 10
+Seafood, 25
+American, Burger, Sandwich, 25
+American, 25
+Japanese, Sushi, 25
+Asian, Thai, 10
+Pizza, American, 20
+Pizza, 10
+Pizza, American, 20
+Pizza, 25
+Pizza, American, 20
+Pizza, American, 20
+Desserts, Pizza, 25
+Pizza, 10
+Pizza, Sandwich, 10
+Asian, Thai, 25
+Vietnamese, 10
+Brazilian, Steak, 70
+Breakfast, French, 40
+Japanese, 10
+Japanese, 10
+Bar_Food, 10
+Sandwich, 10
+Steak, 70
+Breakfast, 10
+Bar_Food, 10
+Coffee_and_Tea, 10
+German, Bar_Food, 10
+Coffee_and_Tea, 10
+Fast_Food, 10
+Fast_Food, 10
+Japanese, Sushi, 25
+Asian, Indian, 25
+American, Burger, 25
+Fast_Food, 10
+Fast_Food, 10
+American, Burger, 0
+Indian, 25
+Japanese, Sushi, 40
+Japanese, Sushi, 40
+Mexican, 10
+Indian, 25
+Thai, 10
+American, Bar_Food, 0
+Seafood, Steak, 40
+Pizza, Sandwich, 10
+Steak, 70
+Italian, 10
+Thai, 10
+American, Bar_Food, 10
+Burger, Sandwich, 10
+American, 10
+Asian, Chinese, 10
+American, 10
+Japanese, Sushi, 25
+Bar_Food, 25
+Fast_Food, 10
+Fast_Food, 10
+Fast_Food, 10
+Breakfast, Coffee_and_Tea, 10
+Bar_Food, 10
+American, 10
+Desserts, Sandwich, 10
+Pizza, Sandwich, 10
+Mexican, 10
+Italian, Pizza, 25
+Bar_Food, 0
+American, Burger, 10
+American, 10
+Chinese, 10
+Fast_Food, 10
+Burger, Pizza, Sandwich, 10
+Fast_Food, 10
+European, Mediterranean, Eastern_European, 25
+American, Bar_Food, 10
+Breakfast, Diner, 10
+Asian, 10
+Burger, 10
+Ice_Cream, 10
+Pizza, Sandwich, 10
+Sandwich, 0
+American, Burger, Desserts, 10
+Pizza, 25
+American, 0
+Breakfast, Seafood, Steak, 40
+Italian, Sandwich, 10
+Fast_Food, 10
+Bar_Food, 10
+Breakfast, Desserts, Diner, 10
+Chinese, 25
+Italian, Steak, 40
+Cajun, 70
+Fast_Food, 10
+Bar_Food, 10
+American, Burger, Bar_Food, 10
+Asian, 10
+Chinese, 25
+Fast_Food, Pizza, 10
+Bar_Food, 10
+Breakfast, Coffee_and_Tea, 10
+American, Burger, Steak, 10
+Pizza, 25
+Fast_Food, 10
+Breakfast, Diner, 10
+Italian, Pizza, 40
+Burger, Sandwich, 10
+Italian, 40
+American, Italian, Pizza, 25
+Bar_Food, 25
+American, Seafood, Cajun, 25
+Sandwich, 10
+Caribbean, Jamaican, 25
+American, Diner, 10
+Japanese, Sushi, Teriyaki, 25
+American, 10
+BBQ, Cajun, 25
+Italian, Sandwich, 10
+Chinese, 10
+Mexican, 10
+Latin_American, Mexican, 10
+Fast_Food, 10
+Fast_Food, 10
+Sandwich, 10
+International, Thai, 10
+Breakfast, 10
+Fast_Food, Pizza, 10
+Diner, Pizza, 10
+American, Burger, Sandwich, 25
+Pizza, Sandwich, 10
+Chinese, 10
+American, Burger, Bar_Food, 25
+Fast_Food, 10
+Fast_Food, 10
+Breakfast, Fast_Food, Mexican, 10
+Chinese, 10
+American, 10
+Chinese, 10
+American, Breakfast, Diner, 10
+Pizza, Bar_Food, Sandwich, 25
+American, Bar_Food, 10
+Fast_Food, 10
+American, 25
+Pizza, 25
+Fast_Food, 10
+Coffee_and_Tea, Sandwich, 10
+Pizza, 25
+Fast_Food, 10
+American, 25
+American, 10
+Mexican, 25
+Pizza, Bar_Food, 10
+Chinese, 10
+American, 25
+Sandwich, 10
+American, Breakfast, Diner, 10
+French, 25
+American, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Desserts, Pizza, Sandwich, 25
+Mexican, 10
+American, Sandwich, Steak, 25
+American, Breakfast, Desserts, 10
+Pizza, 25
+Greek, Mediterranean, 10
+Fast_Food, 10
+Asian, Chinese, 10
+Bar_Food, 10
+American, 10
+American, Burger, 10
+Fast_Food, Ice_Cream, 10
+Pizza, Sandwich, 25
+Sandwich, 10
+Fast_Food, 10
+Diner, 25
+Fast_Food, 10
+Sandwich, 10
+Chinese, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+Desserts, Pizza, Sandwich, 25
+Pizza, Sandwich, 25
+Diner, 10
+American, Breakfast, Coffee_and_Tea, 10
+American, Burger, Sandwich, 10
+Fast_Food, 10
+Fast_Food, 10
+American, Burger, Pizza, 10
+Pizza, Bar_Food, 10
+Italian, Pizza, 25
+American, Burger, 10
+Chinese, 25
+American, Burger, 25
+Breakfast, Coffee_and_Tea, Sandwich, 10
+Fast_Food, 10
+Sandwich, 10
+Breakfast, Bar_Food, 25
+Burger, Mexican, 10
+Burger, 10
+Coffee_and_Tea, Tea, 10
+Chinese, 25
+Fast_Food, Pizza, 10
+American, 40
+Burger, Bar_Food, Sandwich, 0
+Fast_Food, 10
+American, Mexican, 25
+German, 40
+Dim_Sum, Pizza, 25
+American, Breakfast, Greek, 10
+Breakfast, Coffee_and_Tea, Desserts, 25
+American, Mediterranean, 40
+American, 25
+American, 25
+Southwestern, 10
+Steak, 70
+American, 10
+Tapas, 25
+BBQ, 25
+American, European, French, 70
+Breakfast, Sandwich, Vegetarian, 10
+American, Bar_Food, 10
+Fast_Food, 10
+Bar_Food, 10
+Pizza, 10
+Thai, 10
+Burger, Pizza, Bar_Food, 10
+Fast_Food, Pizza, 10
+Fast_Food, Pizza, 10
+European, French, 40
+Seafood, 40
+Breakfast, Coffee_and_Tea, 10
+Cajun, 40
+Japanese, Sushi, 40
+Fast_Food, 10
+American, Breakfast, 25
+Italian, Turkish, 25
+Breakfast, Coffee_and_Tea, 10
+American, Greek, Mediterranean, 10
+Pizza, 25
+Asian, Chinese, 25
+Mexican, Tex-Mex, 10
+Chinese, 10
+Sandwich, American, 10
+American, BBQ, Steak, 25
+Breakfast, Burger, Sandwich, 10
+American, Breakfast, Diner, 10
+Burger, Sandwich, 10
+American, Seafood, Steak, 70
+American, Burger, Sandwich, 10
+Sandwich, 10
+Mexican, 10
+Thai, Vietnamese, 25
+American, Burger, Bar_Food, 10
+Burger, Sandwich, 10
+American, 25
+American, French, Sandwich, 10
+Asian, 25
+Asian, Thai, Vietnamese, 25
+Fast_Food, Sandwich, 10
+Mexican, 10
+European, 25
+American, Italian, Steak, 40
+Mexican, 10
+Bar_Food, Seafood, 10
+American, 10
+American, Pizza, 10
+Italian, Pizza, 25
+Bar_Food, 25
+Bar_Food, 25
+American, Desserts, 10
+American, 40
+Vegetarian, 25
+Fast_Food, Mexican, 10
+Italian, 10
+Burger, Pizza, Sandwich, 10
+Fast_Food, Mexican, 10
+Breakfast, Burger, Bar_Food, 25
+Bar_Food, Sandwich, Steak, 25
+American, Burger, Bar_Food, 10
+American, BBQ, 25
+Pizza, 25
+American, Diner, Mediterranean, 10
+American, Breakfast, Pizza, 25
+American, Burger, Bar_Food, 25
+Seafood, 10
+Italian, 10
+Latin_American, Mexican, 10
+Sandwich, Steak, 40
+25
+Steak, 40
+Mexican, 10
+Mexican, California, 10
+American, Breakfast, Sandwich, 10
+0
+Breakfast, Coffee_and_Tea, 10
+American, 40
+American, 10
+0
+Bar_Food, 10
+Breakfast, Diner, 10
+Chinese, 10
+Mexican, 10
+Chinese, Japanese, Korean, 10
+Italian, 40
+American, Breakfast, Bar_Food, 40
+Italian, Pizza, 25
+Fast_Food, Mexican, 10
+Vegetarian, Vietnamese, 10
+American, Cafe, 25
+American, Cafe, 25
+Desserts, Italian, Pizza, 10
+Mexican, 10
+Mexican, 10
+Breakfast, Mediterranean, Vegetarian, 10
+Mexican, Southwestern, 10
+Chinese, 10
+Italian, 40
+American, International, 40
+Coffee_and_Tea, Tea, 10
+Mexican, Tex-Mex, 25
+American, Bar_Food, 25
+American, Sandwich, Steak, 25
+American, 25
+Breakfast, Coffee_and_Tea, 10
+American, 40
+International, 40
+Mexican, 25
+Chinese, 10
+American, Asian, Italian, 10
+American, Burger, Bar_Food, 10
+Japanese, Sushi, 25
+Asian, Japanese, 10
+American, Burger, Sandwich, 25
+American, 70
+Japanese, Sushi, 10
+Mexican, 25
+Fast_Food, 10
+Mediterranean, Middle_Eastern, 25
+Breakfast, Sandwich, 10
+Coffee_and_Tea, Tea, 10
+American, 10
+American, Sandwich, 40
+Asian, Chinese, 25
+International, Sandwich, 10
+Coffee_and_Tea, Sandwich, 10
+Sandwich, 10
+Burger, Bar_Food, Sandwich, 10
+Burger, Sandwich, 10
+American, Burger, 10
+Asian, Japanese, Sushi, 25
+Mexican, 25
+American, 25
+Mexican, 10
+Coffee_and_Tea, Sandwich, 10
+Seafood, 40
+Burger, Desserts, Sandwich, 10
+American, Breakfast, 25
+Breakfast, Coffee_and_Tea, Sandwich, 10
+Breakfast, Sandwich, Tex-Mex, 10
+American, Burger, Bar_Food, 10
+Italian, Pizza, 10
+European, Italian, Pizza, 10
+American, Bar_Food, 10
+Mexican, 10
+American, Breakfast, 10
+Bar_Food, Irish, 25
+American, 10
+Burger, Sandwich, 10
+Mexican, 10
+Mediterranean, Middle_Eastern, 10
+Mediterranean, Middle_Eastern, 10
+Sandwich, 10
+Mexican, 10
+American, Breakfast, 40
+Sandwich, 10
+American, Bar_Food, 10
+Pizza, 25
+Pizza, 10
+American, Burger, 10
+Fast_Food, 10
+Coffee_and_Tea, Sandwich, 10
+American, Burger, Bar_Food, 10
+Fast_Food, 10
+Sandwich, 10
+Asian, Chinese, 10
+Bar_Food, 25
+American, Burger, 25
+Italian, 25
+Mediterranean, Tapas, 40
+25
+Mexican, Seafood, 10
+Southern, 10
+0
+American, 25
+American, 10
+American, Breakfast, 25
+Italian, 40
+International, Sandwich, 10
+Pizza, Sandwich, 25
+BBQ, 10
+French, International, 25
+BBQ, Southwestern, Cajun, 10
+Italian, Pizza, Sandwich, 25
+Asian, Beverages, Tea, 10
+Italian, 25
+Sandwich, 10
+Burger, Bar_Food, Sandwich, 10
+Indian, 25
+American, Burger, Bar_Food, 25
+Greek, 10
+Burger, Italian, 25
+Sandwich, 10
+Breakfast, Burger, Sandwich, 25
+Mexican, 25
+Breakfast, Desserts, 10
+Mexican, 10
+Asian, 25
+Fast_Food, Sandwich, 10
+Bar_Food, 10
+American, Burger, Desserts, 10
+Pizza, 10
+Pizza, 10
+Sandwich, 10
+Mexican, 25
+Pizza, Sandwich, 0
+American, BBQ, 10
+American, BBQ, 10
+Burger, Seafood, 10
+Burger, Pizza, 25
+American, 40
+American, 40
+Asian, 10
+Asian, Sushi, Teriyaki, 10
+Sandwich, 10
+Asian, Chinese, Korean, 10
+American, Seafood, Steak, 40
+Pizza, 25
+Italian, Sandwich, 10
+Latin_American, 25
+Afghani, Eastern_European, 10
+Italian, Pizza, 10
+Greek, Sandwich, Southern, 10
+American, 25
+Coffee_and_Tea, Sandwich, 10
+American, Italian, 10
+Coffee_and_Tea, 10
+Indian, 25
+Mexican, 10
+American, 10
+American, 70
+Mexican, 10
+Sandwich, 10
+Sandwich, 10
+Middle_Eastern, 10
+Asian, Chinese, Vegetarian, 10
+American, Breakfast, Diner, 25
+Fast_Food, 10
+Coffee_and_Tea, Sandwich, 10
+Korean, 25
+American, Bar_Food, 10
+Bar_Food, 25
+Italian, 25
+Mexican, 10
+BBQ, 0
+Sandwich, 10
+Sandwich, 10
+American, 10
+American, Burger, 10
+Pizza, 25
+Indian, 25
+Steak, 0
+Fast_Food, 10
+Fast_Food, 10
+Asian, 10
+American, Burger, 10
+Chinese, 0
+Sandwich, 10
+Chinese, 0
+Coffee_and_Tea, Sandwich, 10
+BBQ, Bar_Food, 10
+Indian, 0
+Coffee_and_Tea, Sandwich, 10
+Seafood, Steak, 70
+Sandwich, 10
+Asian, Dim_Sum, 25
+Italian, Pizza, Sandwich, 25
+Mexican, 10
+Italian, 0
+Burger, Bar_Food, Sandwich, 25
+Southern, 35
+BBQ, Southern, 10
+Mediterranean, Middle_Eastern, 10
+Burger, Bar_Food, 25
+American, Burger, Bar_Food, 10
+Thai, 0
+Fast_Food, 10
+Fast_Food, 10
+Asian, Chinese, Sushi, 25
+American, Japanese, Mexican, 0
+European, 20
+Fast_Food, Pizza, 10
+0
+Desserts, Seafood, Steak, 70
+Sandwich, 10
+Burger, Bar_Food, 10
+Indian, 0
+American, 25
+Pizza, 0
+Italian, Pizza, 25
+Sandwich, 10
+American, 0
+American, Bar_Food, 10
+Japanese, Sushi, 25
+American, 0
+Asian, Thai, Vegetarian, 10
+American, Pizza, Bar_Food, 0
+Greek, Mediterranean, 0
+American, 0
+American, 0
+Asian, 10
+American, International, 10
+American, 0
+American, 40
+Seafood, Steak, 40
+Bar_Food, 10
+Asian, 0
+American, 10
+Indian, 10
+American, Healthy_Food, Bar_Food, 40
+Mexican, 10
+Mexican, 10
+Sandwich, 10
+Mexican, Southern, Fast_Food, 25
+Sandwich, 10
+Pizza, 25
+Indian, 25
+Indian, Pakistani, 0
+American, Bar_Food, 10
+Burger, 10
+Coffee_and_Tea, Sandwich, 10
+Bakery, 30
+Breakfast, Sandwich, Healthy_Food, 10
+Pizza, 25
+American, 25
+Mexican, 10
+American, 10
+Thai, 10
+Indian, 25
+American, 70
+Pizza, 25
+Fast_Food, 10
+10
+Burger, 25
+Mexican, 10
+10
+Pizza, 10
+0
+10
+American, 10
+Fast_Food, 10
+Fast_Food, Mexican, 10
+Mexican, 10
+American, Bar_Food, 25
+American, 25
+10
+Mexican, 0
+American, 0
+BBQ, 0
+Burger, Bar_Food, 25
+Bar_Food, 70
+Pizza, American, 15
+Pizza, Tapas, 0
+American, 0
+American, 0
+Tapas, Bar_Food, 0
+American, 0
+French, Italian, American, 0
+Dim_Sum, Chinese, 0
+Pizza, Salad, 25
+Mediterranean, 30
+Mexican, 0
+Mexican, 0
+Pizza, Sandwich, 35
+German, 40
+Chinese, 0
+Bar_Food, 0
+American, 0
+0
+American, Chinese, Sushi, 0
+Japanese, Ramen, 10
+Burger, Fast_Food, 0
+Amish, Japanese, Taiwanese, 0
+Beverages, American, 0
+Mediterranean, Pakistani, 20
+American, Seafood, Steak, 0
+American, Seafood, Steak, 0
+Japanese, Ramen, 0
+Laotian, Thai, 0
+American, 0
+Indian, 0
+American, 0
+Chinese, 0
+Mexican, 20
+Italian, Pizza, 0
+Mexican, Tex-Mex, 0
+American, 45
+Pizza, 25
+American, Salad, 0
+Japanese, Sushi, 30
+Peruvian, 25
+American, Mexican, 35
+American, 0
+Pub_Food, 25
+Salad, 20
+Mexican, 20
+Pizza, American, 25
+Hawaiian, Seafood, 30
+Indian, 30
+Peruvian, Sandwich, 25
+American, Sandwich, 12
+California, 45
+African, Ethiopian, 40
+American, 25
+Ramen, Japanese, 25

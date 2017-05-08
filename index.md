@@ -61,6 +61,6 @@ dataset in CSV format.
 
 We performed correlation discovery on our merged Yelp/Zomato file.
 
-* Report
+* [Report](reports/Stage5_Report.pdf)
 
-* [Files](https://github.com/varuncnaik/cs838-sp17/tree/master/stage5)
+* [Files](stage5/files.md)

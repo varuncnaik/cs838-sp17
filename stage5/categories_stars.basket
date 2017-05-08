@@ -1,0 +1,911 @@
+Fish_&_Chips, Restaurants, 4.5
+Restaurants, American_(Traditional), Nightlife, Bars, 4.0
+Pubs, Restaurants, Nightlife, American_(Traditional), Bars, 5.0
+Restaurants, 3.0
+Restaurants, Burgers, Fast_Food, 1.0
+Pizza, Restaurants, 2.0
+Diners, Restaurants, Breakfast_&_Brunch, 4.0
+Chinese, Restaurants, 4.0
+Fast_Food, Restaurants, Burgers, 3.5
+Nightlife, American_(New), Restaurants, Bars, 4.5
+Nightlife, Restaurants, Bars, Sports_Bars, American_(Traditional), 3.5
+Restaurants, Fast_Food, Sandwiches, 3.5
+Restaurants, Pizza, Italian, 3.5
+American_(Traditional), Restaurants, 4.5
+Chinese, Restaurants, 3.5
+Fast_Food, Ice_Cream_&_Frozen_Yogurt, Restaurants, Food, 4.5
+American_(Traditional), Restaurants, 3.5
+Restaurants, Pizza, Burgers, American_(New), 3.0
+Restaurants, Food, Delis, Sandwiches, Food_Delivery_Services, 2.5
+Restaurants, Fast_Food, Burgers, 2.0
+American_(Traditional), Restaurants, 4.0
+Chicken_Wings, Pizza, Italian, Restaurants, 4.0
+Chinese, Szechuan, Restaurants, 5.0
+Food, Coffee_&_Tea, Restaurants, Beer, Wine_&_Spirits, Cafes, 4.0
+Restaurants, Italian, 3.5
+Restaurants, Chinese, 3.0
+Restaurants, Indian, Pakistani, Thai, 3.5
+Ice_Cream_&_Frozen_Yogurt, Restaurants, Food, Fast_Food, 3.5
+Food, Restaurants, Pubs, American_(Traditional), Bars, Breweries, Nightlife, 3.5
+Bakeries, Food, Mexican, Delis, Restaurants, 4.0
+Restaurants, Pizza, 3.5
+Burgers, Restaurants, Fast_Food, 1.0
+Sandwiches, Restaurants, 3.5
+Nightlife, American_(Traditional), Burgers, Restaurants, Bars, 2.5
+Comfort_Food, Salad, Thai, Italian, Noodles, Restaurants, Asian_Fusion, 2.5
+Breakfast_&_Brunch, Restaurants, 3.0
+Salad, Soup, Restaurants, Breakfast_&_Brunch, Food, Bagels, Sandwiches, 2.5
+Pizza, Restaurants, 4.0
+Restaurants, Fast_Food, Pizza, 4.5
+Pizza, Italian, Restaurants, 3.5
+Italian, Pizza, Sandwiches, Restaurants, Chicken_Wings, 2.0
+Restaurants, Chicken_Wings, Italian, Pizza, 2.0
+Restaurants, Mexican, Caterers, Fast_Food, Event_Planning_&_Services, 3.5
+Fish_&_Chips, American_(New), American_(Traditional), Restaurants, 3.5
+Sports_Bars, Bars, Nightlife, Restaurants, American_(Traditional), 4.0
+Restaurants, Italian, Mediterranean, Greek, 3.0
+Restaurants, Burgers, Fast_Food, 2.5
+Restaurants, Chinese, 2.5
+Dive_Bars, Bars, Restaurants, American_(Traditional), Nightlife, 4.0
+American_(New), Restaurants, 3.5
+Restaurants, Pizza, Food, Breweries, 4.0
+Steakhouses, Nightlife, Bars, American_(New), Restaurants, American_(Traditional), Sports_Bars, Burgers, 2.0
+Burgers, Steakhouses, Restaurants, American_(Traditional), Sports_Bars, Bars, Nightlife, American_(New), 3.0
+Burgers, Restaurants, Fast_Food, Sandwiches, 2.5
+Restaurants, Fast_Food, Sandwiches, 4.5
+Fast_Food, Sandwiches, Restaurants, 2.5
+Chinese, Restaurants, 3.0
+Restaurants, American_(Traditional), Cocktail_Bars, Bars, Nightlife, 3.5
+Specialty_Food, Sandwiches, Food, Restaurants, Cheese_Shops, Ice_Cream_&_Frozen_Yogurt, 4.5
+Restaurants, Nightlife, American_(Traditional), Bars, Burgers, 3.0
+Restaurants, Thai, 3.5
+Indonesian, Restaurants, Asian_Fusion, 4.0
+Restaurants, Italian, 3.5
+Bars, Restaurants, Country_Clubs, Dive_Bars, Burgers, Sports_Bars, Arts_&_Entertainment, Nightlife, 4.0
+Restaurants, Italian, 3.0
+Italian, Restaurants, 3.5
+Restaurants, Sandwiches, 4.0
+Restaurants, Sandwiches, 4.0
+Sandwiches, Restaurants, 2.5
+Sandwiches, Restaurants, 2.5
+Burgers, Barbeque, Nightlife, American_(Traditional), Restaurants, Sports_Bars, Beer_Bar, Pool_Halls, Bars, 4.0
+Diners, Restaurants, American_(Traditional), 4.0
+American_(Traditional), Bars, Pool_Halls, Nightlife, Restaurants, 3.5
+Gluten-Free, Food, Bakeries, Restaurants, 4.5
+Gluten-Free, Food, Bakeries, Restaurants, 4.5
+Irish, Pubs, Restaurants, Nightlife, Bars, 3.5
+Burgers, American_(Traditional), Food, Nightlife, Beer, Wine_&_Spirits, Bars, Restaurants, Breakfast_&_Brunch, 4.0
+Bagels, Food, Breakfast_&_Brunch, Sandwiches, Restaurants, 3.0
+Nightlife, American_(Traditional), Restaurants, Sports_Bars, Bars, 3.0
+Restaurants, Pizza, 4.0
+Restaurants, Pizza, 3.5
+Nightlife, American_(Traditional), Bars, Sports_Bars, Restaurants, Chicken_Wings, 3.0
+Italian, Mediterranean, Restaurants, Moroccan, 4.0
+Fast_Food, Restaurants, 1.5
+Restaurants, Fast_Food, Burgers, 2.5
+Fast_Food, Food, Restaurants, 4.5
+Restaurants, Mexican, 3.5
+Italian, Pizza, Restaurants, 4.0
+Buffets, Restaurants, Indian, 1.5
+Steakhouses, Party_&_Event_Planning, Restaurants, American_(Traditional), Event_Planning_&_Services, Seafood, Venues_&_Event_Spaces, 3.5
+Restaurants, Bars, Pubs, Nightlife, Dive_Bars, Burgers, 4.0
+Mexican, Restaurants, 3.0
+Restaurants, 2.5
+Restaurants, Chinese, 3.0
+Chinese, Restaurants, 3.5
+Chinese, Restaurants, 3.5
+Chinese, Restaurants, 2.5
+Chinese, Restaurants, 3.5
+Chinese, Restaurants, 3.0
+Mexican, Fast_Food, Restaurants, 4.0
+Mexican, Restaurants, Fast_Food, 3.5
+American_(Traditional), Bars, Nightlife, Restaurants, Fish_&_Chips, 3.0
+Pizza, Arts_&_Entertainment, Party_&_Event_Planning, Restaurants, Event_Planning_&_Services, Arcades, 2.0
+Nightlife, Restaurants, Lounges, Burgers, Bars, 3.5
+Bars, American_(Traditional), Restaurants, Sports_Bars, Nightlife, Diners, 3.0
+American_(Traditional), Restaurants, Breakfast_&_Brunch, Bars, Nightlife, 3.5
+Coffee_&_Tea, Restaurants, Cafes, Food, Sandwiches, 4.0
+American_(New), Diners, Breakfast_&_Brunch, Restaurants, American_(Traditional), 3.0
+Breakfast_&_Brunch, Restaurants, Cafes, 4.5
+Restaurants, Delis, Sandwiches, Event_Planning_&_Services, Fast_Food, Caterers, 4.0
+Sandwiches, Delis, Event_Planning_&_Services, Caterers, Restaurants, 4.0
+American_(Traditional), Restaurants, Breakfast_&_Brunch, Southern, 3.0
+Fast_Food, Food, Ice_Cream_&_Frozen_Yogurt, Restaurants, 3.0
+Burgers, Fast_Food, Restaurants, Food, Ice_Cream_&_Frozen_Yogurt, 4.0
+Ice_Cream_&_Frozen_Yogurt, Food, Fast_Food, Restaurants, 3.0
+Diners, Restaurants, 4.0
+Restaurants, Ice_Cream_&_Frozen_Yogurt, Fast_Food, Food, 4.0
+American_(New), Restaurants, 3.0
+Restaurants, Steakhouses, Seafood, 3.5
+Diners, American_(Traditional), Breakfast_&_Brunch, Burgers, Restaurants, Fast_Food, 2.5
+Diners, American_(Traditional), Restaurants, Breakfast_&_Brunch, 3.0
+Restaurants, Vegan, Vegetarian, Burgers, Pubs, Bars, Nightlife, 4.0
+Japanese, Restaurants, 3.0
+Restaurants, Sushi_Bars, Japanese, 3.0
+Bars, Restaurants, Nightlife, Burgers, Dive_Bars, 3.5
+Pizza, Restaurants, Nightlife, American_(Traditional), Sports_Bars, Dive_Bars, Bars, 4.0
+Restaurants, Mexican, 4.0
+Mexican, Tex-Mex, Breakfast_&_Brunch, Restaurants, 4.0
+Ice_Cream_&_Frozen_Yogurt, Local_Flavor, Food, Burgers, American_(Traditional), Arts_&_Entertainment, Museums, Restaurants, Delis, 3.0
+Nightlife, American_(New), Tapas/Small_Plates, Bars, Restaurants, Wine_Bars, 4.0
+Nightlife, Pubs, Irish, Restaurants, Bars, American_(Traditional), 3.5
+Restaurants, Food, Coffee_&_Tea, Sandwiches, Internet_Cafes, 3.5
+Restaurants, Steakhouses, 3.0
+Restaurants, Food, Diners, 2.5
+Coffee_&_Tea, Sandwiches, Food, Cafes, Restaurants, 4.0
+Restaurants, Pizza, 3.0
+Barbeque, Restaurants, 3.0
+Pizza, Italian, Restaurants, 2.5
+Chinese, Restaurants, 3.5
+Restaurants, American_(New), 4.0
+Restaurants, Food, Italian, Grocery, Delis, Pizza, Specialty_Food, 4.0
+Restaurants, American_(New), Japanese, Sushi_Bars, 2.5
+Italian, Restaurants, Specialty_Food, Pasta_Shops, Pizza, Sandwiches, Food_Delivery_Services, Gluten-Free, Food, 4.0
+Caterers, Pizza, Event_Planning_&_Services, Restaurants, Food, Food_Delivery_Services, Sandwiches, Italian, 3.0
+Caterers, Food_Delivery_Services, Food, Event_Planning_&_Services, Vegetarian, Pizza, Italian, Sandwiches, Restaurants, 4.0
+Beer_Bar, Bars, Beauty_&_Spas, Hair_Salons, Nightlife, Restaurants, American_(Traditional), 2.5
+Restaurants, Food, Bars, American_(Traditional), Burgers, Breweries, Nightlife, American_(New), 3.5
+Chinese, Restaurants, 3.0
+Food, Restaurants, American_(Traditional), American_(New), Bars, Breweries, Pubs, Nightlife, 4.0
+Breweries, American_(New), Nightlife, American_(Traditional), Bars, Food, Restaurants, 3.5
+Pizza, Restaurants, Italian, 4.0
+Coffee_&_Tea, Restaurants, Food, Cafes, Sandwiches, 4.0
+Restaurants, Chinese, 3.5
+Restaurants, Chinese, Mexican, 3.5
+American_(New), Restaurants, 3.0
+Arts_&_Entertainment, Nightlife, Music_Venues, Dive_Bars, Bars, American_(Traditional), Restaurants, 4.0
+Nightlife, Bars, American_(New), Restaurants, 3.5
+Bars, Nightlife, Sports_Bars, Restaurants, American_(Traditional), 3.0
+Restaurants, Himalayan/Nepalese, 4.0
+Restaurants, Chinese, 3.0
+Restaurants, American_(Traditional), Breakfast_&_Brunch, American_(New), 2.0
+Pizza, Restaurants, 4.0
+Restaurants, Italian, Pizza, 4.0
+Food, Restaurants, Coffee_&_Tea, Breakfast_&_Brunch, Cafes, 4.5
+Irish, American_(Traditional), Pubs, Restaurants, Bars, Nightlife, 3.5
+Restaurants, Chinese, Buffets, 3.0
+Caribbean, Restaurants, 3.5
+Food, Bakeries, Coffee_&_Tea, Ice_Cream_&_Frozen_Yogurt, Restaurants, Gelato, Cafes, 4.0
+Restaurants, Diners, Breakfast_&_Brunch, American_(Traditional), 4.0
+Delis, Food, Restaurants, Sandwiches, Food_Delivery_Services, 1.5
+Delis, Food_Delivery_Services, Food, Restaurants, Fast_Food, Sandwiches, 2.5
+Restaurants, Food, Food_Delivery_Services, Sandwiches, 3.0
+Nightlife, Bars, Sports_Bars, Pubs, Restaurants, American_(Traditional), 4.5
+Restaurants, Fast_Food, Chicken_Wings, Food, 1.0
+Restaurants, Fast_Food, Chicken_Wings, 1.5
+Restaurants, Chicken_Wings, Fast_Food, 1.5
+Fast_Food, Restaurants, Chicken_Wings, 2.0
+Afghan, Restaurants, Middle_Eastern, Mediterranean, Greek, 3.5
+American_(New), Restaurants, 4.0
+Nightlife, Sports_Bars, Bars, American_(New), Restaurants, 2.5
+Mexican, Restaurants, 3.0
+Mexican, Restaurants, 4.0
+Thai, Laotian, Restaurants, 3.5
+Restaurants, Laotian, Thai, 4.5
+Restaurants, Mexican, 3.5
+Restaurants, Mexican, 3.5
+Bars, Burgers, Nightlife, Sports_Bars, Restaurants, American_(Traditional), 3.0
+Food, Cafes, Bakeries, Restaurants, Breakfast_&_Brunch, 4.0
+Restaurants, American_(Traditional), Dive_Bars, Nightlife, Bars, Fish_&_Chips, 4.5
+Restaurants, Pizza, 2.5
+Pizza, Restaurants, 4.0
+Food, Grocery, Restaurants, Delis, 4.0
+Sporting_Goods, Bowling, Active_Life, Event_Planning_&_Services, Restaurants, Toy_Stores, Pizza, Shopping, Party_&_Event_Planning, 3.0
+Cafes, Restaurants, Desserts, Food, Ice_Cream_&_Frozen_Yogurt, 4.5
+Food, Local_Flavor, Breakfast_&_Brunch, Bakeries, Restaurants, 4.0
+Restaurants, Bars, Nightlife, Lounges, American_(New), 3.5
+Soup, Restaurants, Seafood, Indian, 4.0
+Indian, Pakistani, Restaurants, 3.5
+Nightlife, Bars, American_(Traditional), Pubs, Restaurants, 4.0
+Restaurants, Caterers, Comfort_Food, Event_Planning_&_Services, Bakeries, Food, Breakfast_&_Brunch, American_(New), Cafes, Soul_Food, 4.0
+Breakfast_&_Brunch, Restaurants, 4.0
+Seafood, Restaurants, Steakhouses, American_(Traditional), 3.5
+Burgers, Nightlife, American_(Traditional), Bars, Restaurants, 3.0
+Bars, Pubs, Restaurants, Nightlife, Irish, 2.5
+Restaurants, Fast_Food, Burgers, 3.0
+Fast_Food, Burgers, Restaurants, 1.0
+Restaurants, Fast_Food, Burgers, 1.5
+Restaurants, Fast_Food, Burgers, 3.0
+Burgers, Restaurants, Fast_Food, 2.0
+Fast_Food, Restaurants, Burgers, 1.5
+Fast_Food, Burgers, Restaurants, 3.0
+Restaurants, Hookah_Bars, Lounges, Mediterranean, Middle_Eastern, Bars, Greek, Nightlife, 4.5
+Mediterranean, Greek, Restaurants, 4.5
+Cafes, Coffee_&_Tea, Bakeries, Food, Breakfast_&_Brunch, Restaurants, 3.5
+Restaurants, Fondue, Food, Venues_&_Event_Spaces, Event_Planning_&_Services, Salad, Desserts, 3.0
+Coffee_&_Tea, Food, American_(New), Restaurants, Sandwiches, 4.5
+Restaurants, Food, Burgers, Ice_Cream_&_Frozen_Yogurt, Desserts, 3.5
+Nightlife, American_(New), Bars, Pubs, Sandwiches, Restaurants, 4.0
+Breakfast_&_Brunch, Restaurants, 4.0
+Restaurants, Sandwiches, 2.5
+Restaurants, Sandwiches, 2.5
+Sandwiches, Restaurants, 4.5
+Restaurants, Sandwiches, 3.5
+Local_Flavor, Sandwiches, Restaurants, Food, 3.0
+Food, Restaurants, Sandwiches, 3.5
+Restaurants, American_(Traditional), 4.0
+Restaurants, Coffee_&_Tea, Vegan, Food, 3.5
+Restaurants, Dive_Bars, American_(New), Bars, Burgers, Nightlife, 3.5
+British, Cafes, Vegetarian, Breakfast_&_Brunch, Fast_Food, Restaurants, Vegan, 3.5
+Breakfast_&_Brunch, British, Food, Restaurants, Fast_Food, Bakeries, 4.0
+Asian_Fusion, Chinese, Vietnamese, Noodles, Restaurants, 3.5
+Burgers, American_(Traditional), Seafood, Restaurants, 2.5
+Restaurants, Cajun/Creole, 4.0
+Restaurants, Seafood, Cajun/Creole, Sandwiches, 4.0
+Korean, Restaurants, 4.0
+Diners, Mediterranean, Bars, Restaurants, Greek, Nightlife, 3.5
+Restaurants, Asian_Fusion, Noodles, Mediterranean, American_(New), Italian, Chinese, Comfort_Food, 3.0
+Restaurants, Asian_Fusion, Mediterranean, Noodles, Comfort_Food, Fast_Food, American_(New), Chinese, Italian, 2.5
+Asian_Fusion, Fast_Food, Comfort_Food, Noodles, Salad, Restaurants, Thai, Food, Italian, 3.0
+Restaurants, Noodles, Chinese, Fast_Food, Mediterranean, Italian, Thai, American_(New), Comfort_Food, Asian_Fusion, Salad, 2.5
+American_(Traditional), Restaurants, German, American_(New), Steakhouses, Bars, Breakfast_&_Brunch, Salad, Nightlife, 4.0
+Bars, Restaurants, Salad, Wine_Bars, Italian, Nightlife, 3.5
+Restaurants, Italian, Nightlife, Wine_Bars, Bars, Salad, 3.0
+American_(New), Bars, Restaurants, Lounges, Nightlife, Tapas/Small_Plates, 4.0
+Restaurants, Chinese, 3.0
+Food, Bakeries, Restaurants, Breakfast_&_Brunch, 4.0
+Seafood, Mediterranean, Steakhouses, Restaurants, 4.0
+Restaurants, Steakhouses, 2.5
+Steakhouses, Restaurants, 3.0
+American_(New), Restaurants, 3.5
+Pizza, Restaurants, Italian, 3.0
+Food, Restaurants, Salad, Bagels, Sandwiches, Soup, Breakfast_&_Brunch, 2.5
+Sandwiches, Bagels, Breakfast_&_Brunch, Soup, Food, Salad, Restaurants, 3.0
+Restaurants, Soup, Salad, Breakfast_&_Brunch, Sandwiches, Food, Bagels, 3.5
+Pizza, Restaurants, 3.0
+Pizza, Restaurants, 4.0
+Pizza, Restaurants, 2.5
+Pizza, Restaurants, 4.0
+Italian, Restaurants, 4.0
+Bars, Restaurants, American_(New), Nightlife, Dive_Bars, 4.0
+American_(New), Comfort_Food, Restaurants, Breakfast_&_Brunch, 4.0
+Greek, Mediterranean, Restaurants, 3.5
+Mexican, Restaurants, Tex-Mex, 3.0
+Restaurants, Mexican, 2.5
+Middle_Eastern, Specialty_Food, Mediterranean, Ethnic_Food, Bakeries, Restaurants, Donuts, Food, Lebanese, 4.0
+Diners, Restaurants, American_(Traditional), Breakfast_&_Brunch, Cafes, Food, Bakeries, 3.0
+American_(Traditional), Restaurants, Breakfast_&_Brunch, Cafes, American_(New), Bakeries, Farmers_Market, Food, 3.0
+American_(Traditional), Burgers, Restaurants, Bakeries, Cafes, Breakfast_&_Brunch, Food, 2.5
+American_(Traditional), Nightlife, Pubs, Food, Bars, Beer, Wine_&_Spirits, Restaurants, 3.0
+Seafood, Restaurants, Italian, Soup, Pizza, 3.5
+Event_Planning_&_Services, Chicken_Wings, Restaurants, Italian, Pizza, Caterers, Sandwiches, 3.0
+Event_Planning_&_Services, Chicken_Wings, Restaurants, Italian, Pizza, Caterers, Sandwiches, 3.0
+Food, Pizza, Chicken_Wings, Italian, Restaurants, 2.5
+Restaurants, Pizza, Italian, Chicken_Wings, 2.0
+Restaurants, Italian, Pizza, Chicken_Wings, 2.5
+Chicken_Wings, Restaurants, Pizza, Italian, 1.5
+Pizza, Chicken_Wings, Restaurants, Italian, 2.5
+Pizza, Caterers, Event_Planning_&_Services, Toy_Stores, Shopping, Chicken_Wings, Party_&_Event_Planning, Restaurants, 2.0
+Restaurants, Caterers, Event_Planning_&_Services, Pizza, 3.0
+Sandwiches, Chicken_Wings, Caterers, Restaurants, Pizza, Event_Planning_&_Services, Italian, Salad, 3.5
+Bars, Sandwiches, Burgers, Restaurants, Nightlife, Sports_Bars, 4.5
+Nightlife, Burgers, Bars, Pubs, Restaurants, 4.0
+Restaurants, American_(New), Event_Planning_&_Services, Italian, Steakhouses, Pizza, Seafood, Nightlife, Bars, Caterers, 2.5
+Soup, Sandwiches, Salad, Restaurants, Delis, Fast_Food, 3.5
+Delis, Fast_Food, Restaurants, Sandwiches, 2.5
+Mexican, Restaurants, Fast_Food, Caterers, Event_Planning_&_Services, 3.0
+Restaurants, Mexican, Event_Planning_&_Services, Fast_Food, Caterers, 3.5
+Fast_Food, Delis, Restaurants, Sandwiches, 3.0
+Restaurants, Seafood, American_(Traditional), 3.5
+Burgers, American_(Traditional), Restaurants, 3.5
+Dive_Bars, American_(Traditional), Restaurants, Bars, Nightlife, 3.0
+Restaurants, Asian_Fusion, Sushi_Bars, 3.5
+Thai, Restaurants, 3.5
+Restaurants, Italian, Pizza, 3.0
+Restaurants, Caterers, Pizza, Event_Planning_&_Services, Italian, 2.5
+Pizza, Restaurants, Italian, 2.5
+Pizza, Restaurants, 2.5
+Pizza, Restaurants, Italian, 2.5
+Pizza, Restaurants, Italian, 2.5
+Pizza, Restaurants, 3.5
+Pizza, Restaurants, 3.5
+Restaurants, Event_Planning_&_Services, Italian, Pizza, Caterers, 3.5
+Restaurants, Food, Asian_Fusion, Thai, Ice_Cream_&_Frozen_Yogurt, Caterers, Event_Planning_&_Services, Fast_Food, 3.0
+Vietnamese, Noodles, Restaurants, 4.0
+Brazilian, Restaurants, 3.5
+American_(New), Restaurants, French, 4.0
+Japanese, Restaurants, 4.0
+Japanese, Restaurants, 4.5
+Restaurants, Bars, Gay_Bars, American_(Traditional), Nightlife, 4.0
+Sandwiches, Restaurants, 3.5
+Bars, Nightlife, Steakhouses, Event_Planning_&_Services, Restaurants, Pubs, Venues_&_Event_Spaces, 3.0
+Food, Restaurants, Breakfast_&_Brunch, Bakeries, 4.5
+Restaurants, Nightlife, Sports_Clubs, Bars, Active_Life, Sports_Bars, American_(Traditional), 3.0
+Coffee_&_Tea, Cafes, Food, Restaurants, 3.0
+Bars, Sports_Bars, Nightlife, American_(Traditional), Restaurants, 3.0
+Restaurants, Food, Cafes, Coffee_&_Tea, 4.0
+Restaurants, Fast_Food, Sandwiches, 3.5
+Fast_Food, Restaurants, Sandwiches, 2.0
+Restaurants, Sushi_Bars, Asian_Fusion, Japanese, 4.0
+Restaurants, Indian, Pakistani, 4.0
+American_(Traditional), Fish_&_Chips, Nightlife, Restaurants, Bars, 4.0
+Tex-Mex, Restaurants, Mexican, Fast_Food, 2.0
+Mexican, Tex-Mex, Restaurants, Fast_Food, 1.5
+Nightlife, Bars, Restaurants, Pubs, American_(Traditional), Fish_&_Chips, 3.0
+Pakistani, Restaurants, Indian, Vegetarian, 3.5
+Restaurants, Sushi_Bars, Japanese, 3.5
+Japanese, Restaurants, Sushi_Bars, 4.0
+Mexican, Restaurants, 4.0
+Indian, Pakistani, Restaurants, 4.0
+Restaurants, Thai, 4.0
+Restaurants, Nightlife, American_(New), Pubs, Bars, 4.0
+American_(Traditional), Restaurants, 4.0
+Caterers, Event_Planning_&_Services, Pizza, Restaurants, 3.0
+Steakhouses, Restaurants, Italian, Burgers, 4.0
+Restaurants, Italian, 3.0
+Asian_Fusion, Vietnamese, Vegetarian, Thai, Vegan, Restaurants, 3.5
+Dive_Bars, Nightlife, Restaurants, Bars, American_(Traditional), 4.0
+Burgers, Pubs, Bars, Restaurants, American_(Traditional), Nightlife, 4.5
+American_(New), Beer_Bar, Bars, Restaurants, Nightlife, Breakfast_&_Brunch, 4.0
+Chinese, Noodles, Restaurants, Cantonese, 3.5
+American_(Traditional), Fish_&_Chips, Nightlife, Restaurants, Bars, 3.0
+Seafood, Japanese, Sushi_Bars, Restaurants, 3.5
+American_(New), Nightlife, Restaurants, Burgers, Bars, 4.0
+Fast_Food, Sandwiches, Burgers, Restaurants, 2.5
+Fast_Food, Burgers, Restaurants, 2.5
+Restaurants, Fast_Food, Burgers, 3.5
+Restaurants, Breakfast_&_Brunch, 4.0
+Restaurants, Nightlife, Dive_Bars, Bars, American_(Traditional), 3.5
+Bars, Sandwiches, Sports_Bars, Restaurants, Burgers, Nightlife, 4.0
+Ice_Cream_&_Frozen_Yogurt, Food, Coffee_&_Tea, Delis, Breakfast_&_Brunch, Cafes, Restaurants, 3.5
+Pizza, Restaurants, 4.0
+Restaurants, Mexican, 3.5
+Restaurants, Pizza, Italian, 4.5
+Restaurants, Barbeque, Nightlife, Bars, Dive_Bars, Sandwiches, 4.5
+Food, Fast_Food, Ice_Cream_&_Frozen_Yogurt, Restaurants, 3.0
+American_(Traditional), Restaurants, 3.5
+Restaurants, Chinese, 3.0
+Fast_Food, Restaurants, Burgers, 4.0
+Burgers, Restaurants, Bars, Pizza, Nightlife, 4.0
+Fast_Food, Restaurants, Sandwiches, 3.5
+Bistros, Breakfast_&_Brunch, Restaurants, 4.0
+American_(Traditional), Bars, Nightlife, Restaurants, 3.5
+American_(Traditional), Bakeries, Donuts, Restaurants, Food, 4.0
+Chinese, Restaurants, 3.0
+Restaurants, Nightlife, Bars, American_(New), 3.0
+Food, Ice_Cream_&_Frozen_Yogurt, Restaurants, 3.0
+Restaurants, Sandwiches, 3.0
+Delis, Sandwiches, Restaurants, 3.0
+Restaurants, Burgers, Ice_Cream_&_Frozen_Yogurt, Food, 4.5
+Pizza, Restaurants, 3.5
+American_(New), Restaurants, Hotels_&_Travel, Hotels, Event_Planning_&_Services, 2.5
+Steakhouses, Restaurants, 2.5
+Italian, Restaurants, Delis, 4.5
+Restaurants, Breakfast_&_Brunch, American_(Traditional), Burgers, Fast_Food, 4.5
+Bars, Nightlife, Music_Venues, American_(Traditional), Arts_&_Entertainment, Restaurants, 2.5
+Restaurants, Diners, American_(New), 3.5
+Asian_Fusion, Party_&_Event_Planning, Chinese, Venues_&_Event_Spaces, Restaurants, Event_Planning_&_Services, 3.0
+Italian, Restaurants, Steakhouses, 3.5
+Bars, Nightlife, Seafood, Cajun/Creole, Cocktail_Bars, Restaurants, 4.0
+Fast_Food, Burgers, Restaurants, 4.5
+Sports_Bars, Nightlife, Pubs, American_(Traditional), Bars, Restaurants, 4.0
+Nightlife, American_(Traditional), Bars, Restaurants, 3.0
+Restaurants, Chinese, 3.0
+Asian_Fusion, Chinese, Restaurants, Gluten-Free, 3.0
+Restaurants, Pizza, 1.5
+Bars, American_(New), Restaurants, Nightlife, 4.0
+Bakeries, Food, Coffee_&_Tea, Breakfast_&_Brunch, Restaurants, 3.5
+Restaurants, American_(Traditional), Burgers, Nightlife, Chicken_Wings, Bars, 3.5
+Pizza, Restaurants, 3.5
+Restaurants, Sandwiches, Fast_Food, 3.0
+Breakfast_&_Brunch, Restaurants, 3.5
+Italian, Restaurants, 4.0
+American_(Traditional), Nightlife, Restaurants, Burgers, Pubs, Bars, 4.0
+Italian, Restaurants, 4.0
+Italian, Pizza, Restaurants, 3.0
+Nightlife, Restaurants, Sports_Bars, American_(Traditional), Chicken_Wings, Bars, 2.5
+American_(Traditional), Sandwiches, Restaurants, Cajun/Creole, 2.5
+Delis, Restaurants, Sandwiches, 5.0
+Restaurants, Caribbean, 4.0
+American_(Traditional), Diners, Restaurants, Breakfast_&_Brunch, 3.5
+Sushi_Bars, Japanese, Restaurants, 3.0
+Venues_&_Event_Spaces, Bars, Restaurants, Event_Planning_&_Services, Nightlife, 3.0
+Restaurants, Barbeque, 3.5
+Italian, Delis, Restaurants, Specialty_Food, Food, Sandwiches, 4.5
+Restaurants, Chinese, 3.5
+Restaurants, Mexican, 3.0
+Restaurants, Mexican, 3.0
+Fast_Food, Restaurants, Burgers, 2.0
+Burgers, Fast_Food, Restaurants, 2.0
+Restaurants, Sandwiches, 2.5
+Asian_Fusion, Thai, Chinese, Noodles, Italian, Comfort_Food, Restaurants, Salad, 2.5
+Restaurants, Breakfast_&_Brunch, 3.5
+Pizza, Restaurants, 2.0
+Pizza, Restaurants, 3.0
+American_(Traditional), Restaurants, Burgers, 2.5
+Arcades, Restaurants, Arts_&_Entertainment, Pizza, 4.0
+Chinese, Restaurants, 3.5
+American_(Traditional), Bars, Restaurants, Nightlife, 3.5
+Sandwiches, Fast_Food, Restaurants, 1.5
+Mexican, Tex-Mex, Restaurants, Fast_Food, 2.5
+Restaurants, Mexican, Fast_Food, 2.5
+Restaurants, Chinese, 2.5
+Nightlife, Bars, American_(Traditional), Restaurants, 2.5
+Buffets, Chinese, Restaurants, 2.5
+Restaurants, Cafes, 3.5
+American_(Traditional), Restaurants, Food, Breweries, 4.0
+American_(Traditional), Restaurants, 3.0
+Fast_Food, Restaurants, Burgers, 1.5
+Restaurants, American_(Traditional), 3.5
+Restaurants, Pizza, 4.0
+Fast_Food, Burgers, Restaurants, 3.5
+Coffee_&_Tea, Restaurants, Bakeries, Breakfast_&_Brunch, Food, 4.5
+Pizza, Restaurants, 4.0
+Fast_Food, Burgers, Restaurants, 1.0
+Nightlife, Sports_Bars, American_(Traditional), Restaurants, Pub_Food, Bars, 3.5
+Restaurants, Nightlife, American_(Traditional), Bars, Burgers, 4.0
+Restaurants, Mexican, 3.5
+Restaurants, American_(Traditional), 4.0
+Chinese, Restaurants, 3.5
+American_(Traditional), Restaurants, Seafood, Bars, Nightlife, 3.5
+Grocery, Specialty_Food, Sandwiches, Meat_Shops, Food, Delis, Restaurants, 3.0
+Restaurants, American_(Traditional), 4.5
+Restaurants, Nightlife, American_(New), Bars, Bistros, 3.5
+American_(New), Restaurants, 2.5
+Restaurants, Pizza, 2.0
+Italian, Pizza, Chicken_Wings, Restaurants, 2.5
+Sandwiches, Restaurants, Chicken_Wings, Pizza, Italian, 4.0
+Restaurants, Mexican, 4.5
+Restaurants, American_(Traditional), 3.5
+American_(Traditional), Restaurants, 4.0
+Pizza, Restaurants, 4.5
+Mediterranean, Greek, Restaurants, 4.5
+Burgers, Restaurants, 1.5
+Chinese, Restaurants, 3.5
+Restaurants, Chicken_Wings, Bars, Nightlife, American_(Traditional), 4.5
+American_(Traditional), Restaurants, Diners, Breakfast_&_Brunch, 3.5
+Restaurants, Fast_Food, Ice_Cream_&_Frozen_Yogurt, Food, 4.5
+Food, Fast_Food, Ice_Cream_&_Frozen_Yogurt, Restaurants, 4.0
+Event_Planning_&_Services, Pizza, Restaurants, Food, Caterers, Italian, Sandwiches, Food_Delivery_Services, 2.5
+Sandwiches, Food, Restaurants, Farmers_Market, Delis, 3.5
+Chicken_Wings, Fast_Food, Restaurants, 1.0
+Restaurants, Diners, 3.5
+Burgers, Restaurants, Fast_Food, 1.0
+Restaurants, Sandwiches, 2.0
+Restaurants, Chinese, 3.5
+Pizza, Restaurants, 2.5
+Chicken_Wings, Restaurants, Pizza, Italian, 2.0
+Chicken_Wings, Pizza, Restaurants, Sandwiches, 3.5
+Chicken_Wings, Pizza, Restaurants, Sandwiches, 3.5
+Diners, Restaurants, 4.0
+Restaurants, 3.5
+Bars, American_(Traditional), Sports_Bars, Nightlife, Restaurants, American_(New), 3.5
+Fast_Food, Sandwiches, Restaurants, 3.0
+Mexican, Fast_Food, Tex-Mex, Restaurants, 2.0
+Bars, Restaurants, Nightlife, American_(Traditional), 3.5
+Bars, Restaurants, Nightlife, American_(Traditional), Sports_Bars, 3.5
+Restaurants, Nightlife, Bars, Italian, Pizza, 3.0
+Food, Restaurants, Ice_Cream_&_Frozen_Yogurt, Fast_Food, 4.0
+Chinese, Restaurants, 3.0
+American_(New), Breweries, Food, Nightlife, Restaurants, Bars, Beer_Bar, 3.5
+Sandwiches, Arts_&_Crafts, Coffee_&_Tea, Shopping, Restaurants, Food, 4.0
+Burgers, Fast_Food, Restaurants, 3.5
+Restaurants, Sandwiches, 1.5
+Chicken_Wings, Sandwiches, Pubs, Restaurants, American_(New), Bars, Nightlife, American_(Traditional), Sports_Bars, 3.5
+Tex-Mex, Mexican, Restaurants, 3.0
+Restaurants, Bars, Nightlife, 4.0
+Shopping, Arts_&_Crafts, Cafes, Education, Coffee_&_Tea, Restaurants, Food, Art_Classes, 4.5
+Restaurants, Chinese, 3.5
+Restaurants, Italian, Chicken_Wings, Pizza, 2.0
+Seafood, Restaurants, American_(Traditional), Steakhouses, 3.5
+American_(Traditional), Nightlife, Restaurants, Bars, 2.5
+Fast_Food, Burgers, Restaurants, 3.5
+American_(Traditional), Restaurants, 3.5
+German, Nightlife, Bars, Restaurants, Music_Venues, Arts_&_Entertainment, 3.5
+Pizza, Nightlife, Burgers, Restaurants, Dim_Sum, Tapas/Small_Plates, Bars, Chinese, 4.0
+Restaurants, Breakfast_&_Brunch, Greek, 4.0
+Specialty_Food, Food, Coffee_&_Tea, Cafes, Chocolatiers_&_Shops, Restaurants, 4.5
+American_(New), Mediterranean, Restaurants, 4.0
+Nightlife, American_(New), American_(Traditional), Tex-Mex, Bars, Restaurants, 3.0
+American_(New), Tex-Mex, American_(Traditional), Bars, Nightlife, Restaurants, 2.5
+Tex-Mex, Restaurants, Mexican, 2.5
+Wine_Bars, Nightlife, Bars, Steakhouses, Restaurants, 4.0
+American_(Traditional), Coffee_&_Tea, Lounges, Food, Restaurants, Bars, Nightlife, 3.5
+Tapas_Bars, Restaurants, Nightlife, Wine_Bars, Bars, 3.5
+Barbeque, Fast_Food, Restaurants, 4.0
+Restaurants, American_(New), 4.5
+Food, Breakfast_&_Brunch, Sandwiches, Coffee_&_Tea, Restaurants, Cafes, Salad, 3.5
+American_(New), Restaurants, Burgers, 4.0
+Burgers, Restaurants, 3.5
+Restaurants, Nightlife, Bars, Pubs, Sports_Bars, American_(Traditional), 3.0
+Restaurants, Pizza, 3.0
+Restaurants, Thai, 3.5
+Nightlife, Restaurants, Bars, American_(New), Pubs, American_(Traditional), 4.0
+Chicken_Wings, Sandwiches, Pizza, Restaurants, 2.0
+Sandwiches, Restaurants, Pizza, Chicken_Wings, 2.5
+Belgian, Brasseries, Restaurants, French, 4.0
+Seafood, Restaurants, 3.0
+Coffee_&_Tea, Restaurants, Creperies, Food, 4.5
+Vegetarian, Cajun/Creole, Restaurants, Gluten-Free, 4.0
+Sushi_Bars, Restaurants, 4.0
+Fast_Food, Restaurants, 2.5
+Breakfast_&_Brunch, Pizza, Restaurants, American_(New), 3.0
+Italian, Restaurants, Mediterranean, 3.5
+Bakeries, Cafes, Restaurants, Food, French, 4.0
+Convenience_Stores, Food, Burgers, Mediterranean, Restaurants, Greek, 4.0
+Pizza, Restaurants, 4.5
+Mongolian, Restaurants, Chinese, Asian_Fusion, 3.0
+Mexican, Restaurants, 3.0
+Chinese, Restaurants, 3.5
+Coffee_&_Tea, Cafes, Food, Breakfast_&_Brunch, Restaurants, Vegetarian, American_(New), Sandwiches, 3.5
+Steakhouses, Restaurants, American_(Traditional), Barbeque, 3.0
+American_(New), Restaurants, Food, Bakeries, Breakfast_&_Brunch, 4.0
+Restaurants, Diners, Sandwiches, Burgers, 3.5
+Seafood, Restaurants, American_(Traditional), 4.5
+Steakhouses, Restaurants, 3.5
+Restaurants, American_(New), Nightlife, Burgers, Bars, Sandwiches, 3.5
+Restaurants, Sandwiches, American_(New), 3.0
+Restaurants, Mexican, 3.0
+Restaurants, Thai, Noodles, 3.5
+Bowling, Active_Life, Restaurants, 3.5
+Nightlife, Restaurants, American_(Traditional), Bars, Sports_Bars, 4.0
+American_(Traditional), Sports_Bars, Nightlife, Restaurants, Bars, 3.0
+Restaurants, Food, Specialty_Food, Cheese_Shops, Sandwiches, 4.0
+Chinese, Dim_Sum, Restaurants, Asian_Fusion, Thai, 3.5
+Restaurants, Vietnamese, Thai, 4.0
+Juice_Bars_&_Smoothies, Restaurants, Food, Delis, Fast_Food, Sandwiches, 3.0
+Mexican, Restaurants, 4.0
+Modern_European, American_(New), Gluten-Free, Restaurants, 4.0
+American_(New), Restaurants, Bars, Nightlife, 3.0
+Mexican, Restaurants, 3.0
+Restaurants, Nightlife, Seafood, Bars, Tiki_Bars, 3.0
+American_(Traditional), Breakfast_&_Brunch, Restaurants, 3.0
+Bars, Restaurants, Nightlife, American_(Traditional), Sports_Bars, 2.5
+Restaurants, Italian, Pizza, 4.0
+Chicken_Wings, Bars, Nightlife, Restaurants, American_(Traditional), Sports_Bars, 2.5
+American_(Traditional), Restaurants, Chicken_Wings, Bars, Sports_Bars, Nightlife, 2.5
+Restaurants, 3.0
+American_(New), Restaurants, 3.5
+Vegetarian, Restaurants, Vegan, Cafes, 4.0
+Mexican, Restaurants, Caterers, Fast_Food, Event_Planning_&_Services, 2.5
+Restaurants, Italian, 3.0
+Sports_Bars, Restaurants, American_(Traditional), Bars, Nightlife, 3.0
+Restaurants, Mexican, Fast_Food, 3.5
+American_(New), Nightlife, Pubs, Restaurants, Bars, 3.5
+Bars, Pubs, Nightlife, Restaurants, American_(Traditional), American_(New), 3.0
+American_(Traditional), Restaurants, Bars, Nightlife, 3.5
+Restaurants, Barbeque, Bars, Pubs, Nightlife, Event_Planning_&_Services, Venues_&_Event_Spaces, 3.0
+Pizza, Restaurants, 3.0
+Mediterranean, Restaurants, Diners, 3.0
+Restaurants, Breakfast_&_Brunch, Bars, American_(Traditional), Sports_Bars, Steakhouses, Nightlife, 3.0
+American_(Traditional), Bars, Nightlife, Food, Breweries, Restaurants, 3.5
+Restaurants, Specialty_Food, Seafood_Markets, Seafood, Grocery, Food, 4.5
+Italian, Delis, Restaurants, Specialty_Food, Food, 3.0
+Food, Grocery, Restaurants, Mexican, 4.5
+American_(Traditional), Steakhouses, Barbeque, Restaurants, 3.5
+Peruvian, Restaurants, Latin_American, Seafood, 4.0
+Steakhouses, Restaurants, Nightlife, Pubs, Bars, 4.0
+Mexican, Restaurants, 2.5
+Mexican, Restaurants, Tex-Mex, 4.5
+Restaurants, Bakeries, Delis, Food, 4.5
+American_(New), Restaurants, Nightlife, Bars, 2.5
+Restaurants, Breakfast_&_Brunch, Food, Coffee_&_Tea, Cafes, Vegan, Sandwiches, 4.0
+Restaurants, Comfort_Food, American_(Traditional), 2.5
+Event_Planning_&_Services, Venues_&_Event_Spaces, Nightlife, Restaurants, Hotels, Hotels_&_Travel, American_(Traditional), Bars, Lounges, 4.0
+Restaurants, Caterers, American_(Traditional), Event_Planning_&_Services, Bowling, Venues_&_Event_Spaces, Arts_&_Entertainment, Active_Life, Music_Venues, Nightlife, 3.0
+Nightlife, Bars, Restaurants, Burgers, American_(New), 3.5
+Restaurants, Bakeries, American_(Traditional), Food, Breakfast_&_Brunch, Cafes, 4.0
+Chinese, Restaurants, 3.5
+Mexican, Restaurants, 4.0
+Chinese, Restaurants, Asian_Fusion, 3.5
+Italian, Event_Planning_&_Services, Food, Restaurants, Beer, Wine_&_Spirits, Venues_&_Event_Spaces, 3.5
+Restaurants, American_(New), Gastropubs, 4.0
+Pizza, Restaurants, 1.5
+Mexican, Restaurants, Caterers, Fast_Food, Event_Planning_&_Services, 3.5
+Noodles, Restaurants, Vietnamese, 4.0
+Restaurants, Burgers, Sandwiches, American_(Traditional), 4.5
+Shopping, Restaurants, Cafes, Home_&_Garden, Home_Decor, Jewelry, Flowers_&_Gifts, 4.5
+Italian, Pizza, Restaurants, 4.0
+Mexican, Restaurants, 3.5
+Mexican, Restaurants, 3.5
+American_(New), Sandwiches, Restaurants, 4.0
+Mexican, Restaurants, 2.5
+Chinese, Restaurants, 3.5
+Restaurants, Mediterranean, Italian, 4.0
+Steakhouses, Restaurants, Breakfast_&_Brunch, Venues_&_Event_Spaces, Bars, Event_Planning_&_Services, Nightlife, Wine_Bars, 3.5
+Bakeries, Coffee_&_Tea, Restaurants, Food, Breakfast_&_Brunch, 4.0
+Restaurants, Mexican, Tex-Mex, 3.5
+Nightlife, Bars, Breweries, Pubs, Restaurants, American_(Traditional), Food, 3.0
+American_(Traditional), Restaurants, Nightlife, Bars, 4.0
+Pubs, Nightlife, Breweries, Bars, Gift_Shops, Gastropubs, Food, Shopping, Flowers_&_Gifts, Restaurants, 3.5
+Coffee_&_Tea, Breakfast_&_Brunch, Food, Restaurants, 4.0
+Restaurants, American_(New), Food, Tapas/Small_Plates, 4.0
+Cocktail_Bars, Grocery, Sandwiches, Bars, American_(Traditional), Restaurants, Wine_Bars, American_(New), Nightlife, Food, 4.0
+Mexican, Restaurants, 3.0
+Restaurants, Food, Chinese, Food_Delivery_Services, 4.0
+Sports_Bars, Cafes, Nightlife, Restaurants, Bars, 3.5
+Bars, Restaurants, Burgers, Sandwiches, Sports_Bars, American_(Traditional), Nightlife, 2.5
+Japanese, Restaurants, 2.5
+Taiwanese, Chinese, Japanese, Restaurants, Asian_Fusion, 3.5
+American_(Traditional), Sports_Bars, Bars, Nightlife, Restaurants, Burgers, Gluten-Free, 3.5
+Restaurants, Bars, Lounges, American_(New), Nightlife, 3.5
+Japanese, Food, Ethnic_Food, Specialty_Food, Restaurants, 4.0
+Mexican, Restaurants, 2.5
+Restaurants, Fast_Food, Mexican, Tex-Mex, 2.0
+Mediterranean, Restaurants, 3.5
+Cafes, Food, Restaurants, Bakeries, 3.5
+Food, Specialty_Food, Bubble_Tea, Coffee_&_Tea, Restaurants, Ethnic_Food, Taiwanese, 4.5
+Cocktail_Bars, Breakfast_&_Brunch, Restaurants, Nightlife, Lounges, Bars, 2.5
+Bars, Nightlife, Restaurants, Sandwiches, 3.0
+Chinese, Restaurants, 3.5
+American_(New), Sandwiches, Restaurants, 4.0
+Coffee_&_Tea, Restaurants, Food, Pubs, Breakfast_&_Brunch, Bars, Nightlife, 4.0
+Restaurants, Cafes, Sandwiches, 3.5
+Burgers, American_(New), Bars, Restaurants, American_(Traditional), Nightlife, 4.0
+Delis, Bakeries, Breakfast_&_Brunch, Food, Restaurants, 3.5
+Restaurants, Bars, Nightlife, American_(Traditional), 4.0
+Bars, Sushi_Bars, Restaurants, Nightlife, Lounges, 4.5
+Mexican, Restaurants, 3.0
+Venues_&_Event_Spaces, Restaurants, American_(New), Wedding_Planning, Event_Planning_&_Services, American_(Traditional), 4.0
+Restaurants, Mexican, 3.5
+Food, Restaurants, Cafes, Coffee_&_Tea, 4.0
+Nightlife, Seafood, Bars, Restaurants, Steakhouses, 4.0
+Food, Restaurants, Desserts, Ice_Cream_&_Frozen_Yogurt, American_(Traditional), 4.0
+Diners, Breakfast_&_Brunch, Restaurants, American_(Traditional), 2.5
+Breakfast_&_Brunch, Food, Coffee_&_Tea, Bakeries, Restaurants, Cafes, 3.5
+Breakfast_&_Brunch, Cafes, American_(Traditional), Restaurants, American_(New), 3.0
+Nightlife, Event_Planning_&_Services, Restaurants, Music_Venues, Arts_&_Entertainment, Caterers, Venues_&_Event_Spaces, Bars, Party_&_Event_Planning, Pubs, Italian, American_(New), 3.5
+Pizza, Italian, Restaurants, 3.5
+Pizza, Gluten-Free, Italian, American_(New), Restaurants, 4.5
+Bars, American_(Traditional), Jazz_&_Blues, Nightlife, Pubs, Restaurants, Arts_&_Entertainment, 3.5
+Mexican, Restaurants, 4.5
+Food, Restaurants, Cafes, Grocery, 4.0
+Irish, Restaurants, Breakfast_&_Brunch, 3.5
+American_(Traditional), Restaurants, 4.0
+American_(Traditional), Gastropubs, Restaurants, 3.5
+Restaurants, Mexican, 3.0
+Food_Trucks, Food, Restaurants, Mediterranean, 4.5
+Food_Trucks, Food, Restaurants, Mediterranean, 4.5
+Cheesesteaks, Restaurants, Sandwiches, 3.0
+Restaurants, Food, Bakeries, Mexican, 4.0
+Restaurants, Gastropubs, Breakfast_&_Brunch, Brasseries, Spanish, Tapas/Small_Plates, 3.0
+Delis, Restaurants, Food, Sandwiches, Food_Delivery_Services, 4.0
+Restaurants, Chicken_Wings, 3.0
+Pizza, Restaurants, 3.0
+Pizza, Restaurants, 4.5
+Leisure_Centers, American_(New), Bars, Nightlife, Active_Life, Burgers, Restaurants, Recreation_Centers, Sports_Bars, 4.0
+Restaurants, Barbeque, 4.0
+Coffee_&_Tea, Food, Bakeries, Breakfast_&_Brunch, Restaurants, 4.5
+Restaurants, American_(Traditional), Sports_Bars, Nightlife, Bars, Chicken_Wings, 3.0
+Tex-Mex, Fast_Food, Restaurants, Mexican, 1.5
+Sandwiches, Restaurants, 3.5
+Chinese, Restaurants, 3.0
+Beer, Wine_&_Spirits, Karaoke, Pubs, Nightlife, Restaurants, American_(New), Bars, Food, 4.5
+Breakfast_&_Brunch, Restaurants, American_(Traditional), 3.0
+Restaurants, Italian, Wine_Bars, Nightlife, Beer, Wine_&_Spirits, Gluten-Free, Food, Bars, 3.0
+Gastropubs, Restaurants, Tapas_Bars, Mediterranean, American_(New), 4.5
+Restaurants, American_(New), 4.0
+Restaurants, Seafood, Mexican, 4.0
+Restaurants, American_(New), 3.0
+Restaurants, American_(New), 3.0
+American_(Traditional), Nightlife, Sports_Bars, Restaurants, Food, Bars, Beer, Wine_&_Spirits, 4.0
+American_(Traditional), Restaurants, Pubs, Bars, American_(New), Nightlife, 4.0
+American_(Traditional), Restaurants, American_(New), Breakfast_&_Brunch, Vegetarian, 3.5
+Italian, Restaurants, 4.0
+Restaurants, Gluten-Free, Sandwiches, Fast_Food, American_(Traditional), 4.5
+Restaurants, Pizza, 2.5
+Restaurants, Chicken_Wings, American_(Traditional), 3.5
+Restaurants, French, 4.0
+Barbeque, Restaurants, 3.5
+Restaurants, Pizza, 4.0
+Restaurants, Tea_Rooms, Coffee_&_Tea, Food, Cafes, 3.5
+Pizza, Italian, Restaurants, 3.0
+Sandwiches, Food, Restaurants, Local_Flavor, 4.0
+Cafes, Restaurants, 3.0
+Restaurants, Indian, Vegetarian, 4.5
+Sports_Bars, Restaurants, Bars, American_(Traditional), Nightlife, 3.0
+Greek, Restaurants, 2.0
+American_(New), Restaurants, 3.5
+Sandwiches, Pubs, Nightlife, Salad, Restaurants, Bars, 3.5
+Cocktail_Bars, Burgers, Restaurants, American_(New), Bars, Nightlife, Breakfast_&_Brunch, 4.0
+Peruvian, Restaurants, Latin_American, Event_Planning_&_Services, Mexican, Caribbean, Steakhouses, Caterers, 4.0
+Restaurants, Cafes, Food, Coffee_&_Tea, Desserts, 4.5
+Mexican, Restaurants, 3.0
+Restaurants, Asian_Fusion, 3.0
+Restaurants, Fast_Food, Delis, Sandwiches, 2.0
+Food, Gastropubs, Local_Flavor, Breweries, Restaurants, 4.0
+Ice_Cream_&_Frozen_Yogurt, Burgers, Restaurants, Food, 3.5
+Restaurants, American_(New), Pizza, 3.0
+Pizza, Restaurants, Event_Planning_&_Services, Caterers, 3.5
+Restaurants, Sandwiches, 3.5
+Mexican, Restaurants, 3.5
+Restaurants, Italian, Pizza, 4.0
+Restaurants, Barbeque, 3.0
+Restaurants, Barbeque, 3.0
+Restaurants, Nightlife, Bars, Comfort_Food, 2.5
+American_(Traditional), Bars, Burgers, Pubs, Restaurants, Nightlife, 4.0
+American_(Traditional), Restaurants, 2.5
+American_(Traditional), Restaurants, 2.5
+Sri_Lankan, Restaurants, Mexican, American_(New), Asian_Fusion, 4.0
+Sushi_Bars, Japanese, Restaurants, 3.5
+Restaurants, Specialty_Food, Food, Meat_Shops, Cheese_Shops, Grocery, Delis, Beer, Wine_&_Spirits, 4.0
+Chinese, Restaurants, 2.5
+American_(New), Restaurants, 3.5
+Pizza, Restaurants, Food, 4.5
+Italian, Gluten-Free, Restaurants, Salad, Sandwiches, 4.0
+Restaurants, Caribbean, Colombian, Venezuelan, Latin_American, 4.5
+Russian, Food, Restaurants, 4.5
+American_(New), Mediterranean, Italian, Restaurants, Pizza, 4.5
+Restaurants, Greek, American_(Traditional), Mediterranean, 3.0
+Restaurants, American_(New), 4.5
+Arts_&_Entertainment, Art_Galleries, Food, Restaurants, Bakeries, Cafes, Coffee_&_Tea, Shopping, 4.5
+American_(Traditional), Restaurants, Cafes, 3.5
+Food, Cafes, Music_Venues, Arts_&_Entertainment, Coffee_&_Tea, Nightlife, Restaurants, 4.5
+Restaurants, Indian, 3.5
+Mexican, Restaurants, 4.0
+American_(New), Restaurants, Food, Nightlife, Bars, Modern_European, Gastropubs, 4.0
+American_(New), Restaurants, Gastropubs, 4.5
+Mexican, Restaurants, 3.5
+Restaurants, Food, Fast_Food, Delis, Sandwiches, 4.0
+Delis, Fast_Food, Sandwiches, Restaurants, 4.0
+Vegan, Restaurants, Middle_Eastern, Persian/Iranian, 4.0
+Restaurants, Food_Delivery_Services, Food, Chinese, 4.0
+Breakfast_&_Brunch, Restaurants, 4.0
+Restaurants, Mexican, Tex-Mex, Fast_Food, 1.5
+Food, Restaurants, Coffee_&_Tea, Cafes, 4.0
+Korean, Restaurants, Food, 3.5
+Bars, Arts_&_Entertainment, American_(Traditional), Nightlife, Music_Venues, Restaurants, Pubs, 4.0
+Food, Bars, Breweries, Sandwiches, Restaurants, Nightlife, Pubs, American_(New), 3.5
+Restaurants, Italian, 4.0
+Mexican, Restaurants, 4.0
+Restaurants, Food, Barbeque, Food_Trucks, Sandwiches, 3.5
+Sandwiches, Restaurants, 4.0
+Sandwiches, Restaurants, 3.0
+American_(Traditional), Bars, Restaurants, Burgers, Nightlife, 4.5
+Restaurants, Bars, Pubs, Nightlife, American_(Traditional), 4.0
+Restaurants, Pizza, Food, 2.5
+Restaurants, Indian, 4.5
+Nightlife, Bars, American_(Traditional), Restaurants, Wine_Bars, 3.5
+Fast_Food, American_(New), Restaurants, Sandwiches, 2.0
+Sandwiches, Restaurants, Fast_Food, American_(Traditional), 2.5
+Asian_Fusion, Restaurants, 2.5
+Nightlife, Burgers, Pubs, Restaurants, Bars, American_(New), 4.0
+Restaurants, Chinese, Cantonese, 3.5
+Restaurants, Sandwiches, 2.5
+Chinese, Restaurants, 4.0
+Restaurants, Beer, Wine_&_Spirits, Sandwiches, Coffee_&_Tea, Food, 4.0
+Barbeque, Nightlife, Restaurants, Pubs, Arts_&_Entertainment, Bars, Music_Venues, 3.5
+Indian, Restaurants, 4.5
+Coffee_&_Tea, Food, Restaurants, Breakfast_&_Brunch, Bakeries, 4.0
+Steakhouses, Restaurants, 4.0
+Soup, Food, Restaurants, Event_Planning_&_Services, Caterers, Breakfast_&_Brunch, Salad, Bagels, Sandwiches, 3.0
+Asian_Fusion, Restaurants, Korean, 3.5
+Restaurants, Sandwiches, Pizza, Italian, 3.5
+Mexican, Restaurants, 4.0
+Restaurants, Italian, 4.0
+Pubs, Restaurants, American_(New), Bars, Nightlife, 4.0
+Restaurants, Bars, Southern, Nightlife, Diners, 4.0
+Restaurants, Barbeque, 4.0
+Restaurants, Mediterranean, 3.5
+Restaurants, Pubs, Nightlife, Food, Bars, Gastropubs, Chicken_Wings, Pretzels, 3.5
+Bars, Restaurants, Nightlife, American_(Traditional), Burgers, 3.0
+Restaurants, Thai, Soup, Bars, Nightlife, 4.0
+Restaurants, American_(Traditional), Food, Fast_Food, 4.0
+Coffee_&_Tea, Sandwiches, Food, Restaurants, Fast_Food, 3.5
+Restaurants, Sushi_Bars, Chinese, Japanese, 3.5
+Japanese, Italian, Nightlife, Latin_American, American_(New), Dance_Clubs, Karaoke, Restaurants, Mexican, 2.5
+American_(Traditional), Restaurants, Belgian, Breakfast_&_Brunch, 3.5
+Italian, Pizza, Restaurants, Chicken_Wings, 3.0
+Bakeries, Restaurants, Coffee_&_Tea, Shopping, Food, Gift_Shops, Flowers_&_Gifts, Cafes, Grocery, 3.5
+American_(Traditional), Restaurants, 3.5
+Sandwiches, Restaurants, Delis, 3.0
+Restaurants, American_(New), Nightlife, Bars, Sports_Bars, 3.0
+Restaurants, Himalayan/Nepalese, Indian, 4.0
+Food, Pizza, American_(Traditional), Beer, Wine_&_Spirits, Restaurants, American_(New), Burgers, 3.0
+Restaurants, Pizza, 3.5
+Restaurants, Pizza, Italian, 4.0
+Delis, Sandwiches, Restaurants, American_(New), 2.5
+American_(Traditional), Bars, Restaurants, American_(New), Nightlife, 3.0
+Nightlife, Restaurants, Bars, American_(New), American_(Traditional), 4.5
+Bars, Restaurants, Sushi_Bars, Lounges, Nightlife, Japanese, Asian_Fusion, 3.5
+American_(New), Burgers, Nightlife, Restaurants, Pubs, Bars, 3.5
+Restaurants, Vegetarian, Thai, 3.5
+American_(Traditional), Restaurants, Pubs, Nightlife, Bars, Pizza, 3.5
+Restaurants, Greek, Fast_Food, 4.0
+Restaurants, Comfort_Food, American_(New), 4.0
+Restaurants, Comfort_Food, American_(New), 4.0
+Restaurants, Bakeries, Food, Chinese, 4.5
+Restaurants, Vegetarian, Salad, Food, Juice_Bars_&_Smoothies, 3.5
+Nightlife, American_(Traditional), Bars, Restaurants, 2.5
+Breakfast_&_Brunch, Restaurants, American_(Traditional), American_(New), 3.5
+Restaurants, Seafood, 3.0
+Restaurants, Arts_&_Entertainment, Music_Venues, American_(Traditional), Bars, Nightlife, Pubs, 4.0
+Restaurants, American_(New), Chinese, Mongolian, Buffets, 3.0
+Restaurants, American_(New), Delis, Cafes, Kosher, Caterers, Event_Planning_&_Services, 3.0
+Pakistani, Restaurants, Indian, 4.0
+Bars, Nightlife, American_(New), Restaurants, Lounges, Soup, Sandwiches, Salad, 3.5
+Mexican, Buffets, Restaurants, 2.5
+Latin_American, Grocery, Food, Restaurants, Mexican, 4.5
+Bakeries, Restaurants, Cafes, Food, Sandwiches, Coffee_&_Tea, 4.0
+Restaurants, Fast_Food, 4.5
+Delis, Food_Delivery_Services, Sandwiches, Food, Restaurants, 4.0
+American_(New), Mexican, Restaurants, Pizza, 4.5
+Restaurants, Pakistani, Indian, Seafood, Halal, 3.0
+Restaurants, Pakistani, Indian, Seafood, Halal, 3.0
+Bowling, Restaurants, Bars, Nightlife, Venues_&_Event_Spaces, Event_Planning_&_Services, Active_Life, Recreation_Centers, Party_&_Event_Planning, Pool_Halls, 3.5
+Burgers, Restaurants, American_(Traditional), 4.0
+Food, Bakeries, Coffee_&_Tea, Restaurants, Cafes, Sandwiches, 4.0
+Desserts, Restaurants, Food, Comfort_Food, 3.0
+American_(Traditional), Breakfast_&_Brunch, Caterers, Restaurants, Salad, Sandwiches, Cafes, Event_Planning_&_Services, 3.0
+Pizza, Italian, Restaurants, 3.0
+American_(Traditional), Bars, Restaurants, Nightlife, 3.0
+Mexican, Restaurants, Fast_Food, 3.0
+American_(Traditional), Diners, Breakfast_&_Brunch, Restaurants, 2.5
+Indian, Restaurants, Thai, 3.5
+Restaurants, Grocery, Food, Ethnic_Grocery, 4.0
+American_(New), Event_Planning_&_Services, Restaurants, Nightlife, Venues_&_Event_Spaces, Bars, 4.0
+Restaurants, Pizza, 3.5
+Burgers, Fast_Food, Restaurants, 1.0
+Sandwiches, Restaurants, 3.0
+Nightlife, Bars, American_(Traditional), Restaurants, Sports_Bars, Burgers, 3.0
+Mexican, Restaurants, 3.0
+Breakfast_&_Brunch, Food, Sandwiches, Bagels, Salad, Restaurants, Soup, Bakeries, 3.0
+Pizza, Restaurants, 2.5
+Restaurants, Food, Food_Trucks, Sandwiches, 4.5
+Juice_Bars_&_Smoothies, Restaurants, Specialty_Food, Food, Health_Markets, 4.0
+Restaurants, Fast_Food, 2.0
+Restaurants, Mexican, Fast_Food, Tex-Mex, 2.5
+Fast_Food, Tex-Mex, Mexican, Restaurants, 2.5
+Mexican, Restaurants, 4.0
+Pool_Halls, American_(Traditional), Nightlife, Restaurants, Bars, 5.0
+American_(Traditional), Fish_&_Chips, Restaurants, 4.0
+Hot_Dogs, Restaurants, American_(New), Vegan, 4.0
+Restaurants, Mexican, 3.5
+American_(Traditional), Breakfast_&_Brunch, Restaurants, 4.0
+Event_Planning_&_Services, Caterers, Restaurants, Sandwiches, Barbeque, 3.5
+Burgers, Restaurants, Food, Beer, Wine_&_Spirits, American_(New), 3.5
+Sports_Bars, Bars, Nightlife, Restaurants, American_(Traditional), 2.5
+Pizza, Restaurants, 2.5
+Nightlife, Restaurants, Cocktail_Bars, Mediterranean, Tapas/Small_Plates, Bars, American_(New), Pizza, 4.0
+American_(Traditional), Breakfast_&_Brunch, American_(New), Bars, Pubs, Restaurants, Gastropubs, Nightlife, 4.0
+Cafes, Juice_Bars_&_Smoothies, Coffee_&_Tea, Restaurants, Food, 4.5
+Restaurants, Cocktail_Bars, American_(New), Diners, Bars, Nightlife, 4.0
+Nightlife, Pizza, Shopping, Arts_&_Crafts, Restaurants, Paint_&_Sip, Bars, Art_Classes, Education, Arts_&_Entertainment, 5.0
+Restaurants, American_(New), French, American_(Traditional), Supper_Clubs, Gastropubs, 4.0
+Restaurants, Cantonese, Chinese, Dim_Sum, 3.5
+Restaurants, Fast_Food, Gluten-Free, Salad, Pizza, Juice_Bars_&_Smoothies, Food, 3.5
+Restaurants, Mediterranean, 4.0
+Mexican, Restaurants, 4.5
+Mexican, Restaurants, 4.5
+Gluten-Free, Sandwiches, Restaurants, American_(Traditional), Food, Pizza, 3.0
+Nightlife, German, Restaurants, Bars, Gastropubs, Beer_Bar, 3.5
+Restaurants, Ethnic_Food, Chinese, Seafood, Specialty_Food, Food, Noodles, 4.0
+Restaurants, Beer_Gardens, Pubs, Bars, Nightlife, American_(Traditional), 3.5
+American_(New), Restaurants, 4.5
+Middle_Eastern, Restaurants, 4.0
+Japanese, Chinese, Burgers, Fast_Food, Asian_Fusion, Sushi_Bars, Restaurants, American_(Traditional), 4.0
+Restaurants, Japanese, Ramen, 3.5
+Restaurants, Burgers, Fast_Food, 3.0
+Chinese, Restaurants, Pubs, Japanese, Taiwanese, Asian_Fusion, Cocktail_Bars, Nightlife, Sushi_Bars, Bars, 3.5
+Fruits_&_Veggies, Juice_Bars_&_Smoothies, Specialty_Food, Food, Fast_Food, Vegan, Restaurants, Gluten-Free, 4.5
+Mediterranean, Restaurants, Pakistani, Specialty_Food, Halal, Food, Ethnic_Food, 4.0
+Seafood, Steakhouses, American_(Traditional), Restaurants, 3.5
+Restaurants, American_(Traditional), 4.0
+Japanese, Restaurants, Ramen, 3.0
+Thai, Restaurants, 4.5
+Restaurants, American_(Traditional), Burgers, 3.5
+Indian, Buffets, Restaurants, 4.5
+Bars, Restaurants, American_(Traditional), Breakfast_&_Brunch, Nightlife, 2.5
+Asian_Fusion, Chinese, Restaurants, Hot_Pot, 4.5
+Restaurants, Salad, Mexican, 4.5
+Restaurants, Pizza, Comfort_Food, 4.0
+Mexican, Restaurants, Tex-Mex, 2.5
+American_(Traditional), Food, Pubs, Nightlife, Breweries, Comfort_Food, Bars, Restaurants, 3.5
+Pizza, American_(New), Restaurants, Nightlife, Burgers, Bars, 3.5
+Juice_Bars_&_Smoothies, Food, Restaurants, Salad, 4.0
+Restaurants, Soup, Sushi_Bars, Japanese, 3.5
+American_(Traditional), Latin_American, Peruvian, Restaurants, 3.5
+American_(Traditional), Tex-Mex, Restaurants, Mexican, 3.0
+Nightlife, Bars, Cocktail_Bars, Restaurants, American_(New), 3.5
+Sandwiches, Restaurants, Dive_Bars, Nightlife, Bars, Burgers, 2.5
+Salad, Restaurants, Juice_Bars_&_Smoothies, Vegetarian, Soup, Food, 3.0
+Restaurants, Mexican, 4.0
+Chicken_Shop, Pizza, Buffets, Restaurants, 4.0
+Restaurants, Poke, Food, Hawaiian, 4.5
+Restaurants, Indian, 4.5
+Salad, Latin_American, Sandwiches, Peruvian, Restaurants, 4.5
+Restaurants, Delis, 3.5
+Vegetarian, Sandwiches, Breakfast_&_Brunch, Restaurants, American_(New), 4.0
+Vegetarian, Restaurants, Latin_American, Ethiopian, Vegan, 3.5
+Barbeque, Sandwiches, American_(Traditional), Burgers, Restaurants, 3.5
+Ramen, Restaurants, Japanese, 4.5
