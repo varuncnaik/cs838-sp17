@@ -57,6 +57,10 @@ dataset in CSV format.
 
 * [Files](stage4/files.md)
 
-# Stage 5
+# Stage 5: Data Analysis
 
-Coming soon!
+We performed correlation discovery on our merged Yelp/Zomato file.
+
+* Report
+
+* [Files](https://github.com/varuncnaik/cs838-sp17/tree/master/stage5)
